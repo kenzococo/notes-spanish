@@ -487,3 +487,63 @@
   | ![](images/a1/0481.jpg) | canal | s., m. | 频道 | El chico controla los canales de televisión de la competencia. | cadena, emisora | |
   | ![](images/a1/0482.jpg) | paraguas | s., m. | 雨伞 | La niña se tapa con un paraguas. | | |
   | ![](images/a1/0483.jpg) | orilla | s., f. | 岸边 | La mujer está sentada en la orilla. | ribera | |
+  | ![](images/a1/0484.jpg) | profesor | s., m. | 教授 | Él es profesor de matemáticas. | maestro | |
+  | ![](images/a1/0485.jpg) | pizarra | s., f. | 黑板 | Peter escribe en la pizarra. | encerado | |
+  | ![](images/a1/0486.jpg) | difícil | adj., m./f. | 困难的 | Este salto es muy difícil. | complicado | fácil, sencillo |
+  | ![](images/a1/0487.jpg) | preguntar | v., tr. | 提问 | El estudiante pregunta al profesor en clase. | interrogar, cuestionar | contestar, responder |
+  | ![](images/a1/0488.jpg) | ruidoso | adj., m. | 吵闹的 | El tráfico en las grandes ciudades es muy ruidoso. | sonoro | silencioso, tranquilo |
+  | ![](images/a1/0489.jpg) | televisión | s., f. | 电视 | Los niños están viendo la televisión. | televisor (s., m.) | |
+  | ![](images/a1/0490.jpg) | serio | adj., m. | 严肃的 | Nuestro jefe es muy serio. | seco (coloq.) | alegre |
+  | ![](images/a1/0491.jpg) | tímido | adj., m. | 害羞的 | El chico es demasiado tímido y se pone rojo. | vergonzoso, introvertido | extrovertido |
+  | ![](images/a1/0492.jpg) | mochila | s., f. | 书包 | Los chicos van con mochila a la escuela. | | |
+  | ![](images/a1/0493.jpg) | ejercicio | s., m. | 练习 | La niña hace un ejercicio para la clase de lengua. | práctica, prueba | |
+  | ![](images/a1/0494.jpg) | escritorio | s., m. | 书房 | El niño estudia en el escritorio. | estudio, mesa | |
+  | ![](images/a1/0495.jpg) | llegar | v. intr. | 到达 | Su avión llega a las 10 de la noche. | venir | marchar, salir, irse |
+  | ![](images/a1/0496.jpg) | examen | s., m. | 考试 | Hoy hay examen de la asignatura. | prueba, ejercicio | |
+  | ![](images/a1/0497.jpg) | biblioteca | s., f. | 图书馆 | Yo estudio en la biblioteca de la Universidad. | | |
+  | ![](images/a1/0498.jpg) | compañero | s., m. | 同学，伙伴 | Ana, Jose y Roberto son compañeros de clase. | colega | |
+  | ![](images/a1/0499.jpg) | inteligente | adj., m./f. | 聪明的 | Albert Einstein es una persona inteligente. | listo | tonto, ignorante |
+  | ![](images/a1/0500.jpg) | cine | s., m. | 电影院 | Hay muchas personas en la taquilla del cine. | | |
+  | ![](images/a1/0501.jpg) | pesimista | adj., m./f. | 消极的 | El chico es pesimista, piensa que va a suspender el examen. | | optimista |
+  | ![](images/a1/0502.jpg) | luminoso | adj., m. | 明亮的 | La lámpara es muy luminosa. | brillante, radiante | oscuro, apagado |
+  | ![](images/a1/0503.jpg) | repetir | v., tr. | 重复 | Siempre se repite la misma frase. | rehacer | |
+  | ![](images/a1/0504.jpg) | guapo | adj., m. | 帅的 | Ryan Gosling, además de buen actor, es muy guapo. | lindo (en Argentina), atractivo, bello, hermoso | feo |
+  | ![](images/a1/0505.jpg) | amplio | adj., m. | 宽阔的 | La plaza de Tian’anmen en China es la más amplia del mundo. | grande, ancho | estrecho |
+  | ![](images/a1/0506.jpg) | apartamento | s., m. | 公寓 | Mi nuevo apartamento tiene los muebles modernos. | piso, vivienda, alojamiento | |
+  | ![](images/a1/0507.jpg) | lección | s., f. | 一堂课 | La profesora explica una lección nueva. | asignatura, materia, clase | |
+  | ![](images/a1/0508.jpg) | ordenador | s., m. | 电脑 | La pantalla del ordenador es de color azul. | computadora (en Argentina) | |
+  | ![](images/a1/0509.jpg) | diccionario | s., m. | 词典 | Yoshi busca una palabra en su diccionario japonés- inglés. | léxico, enciclopedia | |
+  | ![](images/a1/0510.jpg) | sueldo | s., m. | 工资，薪水 | Hoy recibo mi sueldo del mes. | salario | |
+  | ![](images/a1/0511.jpg) | estar en paro | expr. | 失业中 | Estas dos personas están en paro y buscan trabajo. | estar desempleado/a | |
+  | ![](images/a1/0512.jpg) | tonto | adj., m. | 笨的 | El hijo de mis vecinos es un poco tonto. | ignorante | listo, inteligente |
+  | ![](images/a1/0513.jpg) | palomitas | s., f. | 爆米花 | Ellos comen palomitas de maíz. | | |
+  | ![](images/a1/0514.jpg) | pagar | v., tr. | 付账 | La mujer paga la compra del mercado. | abonar | cobrar |
+  | ![](images/a1/0515.jpg) | oferta | s., f. | 折扣 | En esta tienda hay una oferta. | promoción | |
+  | ![](images/a1/0516.jpg) | pedir | v., tr. | 请求 | El perro pide la comida. | solicitar, reclamar | dar, ofrecer |
+  | ![](images/a1/0517.jpg) | regalo | s., m. | 礼物 | Yo recibo un regalo de cumpleaños. | obsequio | |
+  | ![](images/a1/0518.jpg) | éxito | s., m. | 成功 | La chica joven ha tenido mucho éxito en la reunión. | triunfo | fracaso |
+  | ![](images/a1/0519.jpg) | trabajador | adj., m. | 勤劳的 | Estos obreros son muy trabajadores. | diligente | vago |
+  | ![](images/a1/0520.jpg) | hijo | s., m. | 儿子 | El hijo de Rosana tiene 7 años. | | |
+  | ![](images/a1/0521.jpg) | moderno | adj., m. | 现代的 | Este monumento es muy moderno. | nuevo, actual, reciente, fresco | antiguo, obsoleto |
+  | ![](images/a1/0522.jpg) | cómodo | adj., m. | 舒服的 | Este sofá es muy cómodo. | confortable | incómodo |
+  | ![](images/a1/0523.jpg) | jugar | v., tr./intr. | 玩 | El perro juega con la pelota. | | |
+  | ![](images/a1/0524.jpg) | mesa | s., f. | 桌子 | No hay nada encima de la mesa. | | |
+  | ![](images/a1/0525.jpg) | fútbol | s., m. | 足球 | El chico juega al fútbol. | balompié | |
+  | ![](images/a1/0526.jpg) | partido | s., m. | 比赛 | El partido va a comenzar. | competición, partida | |
+  | ![](images/a1/0527.jpg) | ascensor | s., m. | 电梯 | La chica espera el ascensor. | elevador, montacargas | |
+  | ![](images/a1/0528.jpg) | piso | s., m. | 公寓 | El piso está casi vacío. | vivienda, casa, apartamento | |
+  | ![](images/a1/0529.jpg) | salón | s., m. | 客厅 | La televisión está en el centro del salón. | sala | |
+  | ![](images/a1/0530.jpg) | venir | v., intr. | 离开 | ¿Puedes venir un momento? | acudir | irse |
+  | ![](images/a1/0531.jpg) | saber | v. tr. | 知道，了解 | Esa persona no sabe cocinar. | comprender, conocer | ignorar |
+  | ![](images/a1/0532.jpg) | cita | s., f. | 约会，约见 | Luis tiene cita con el dentista. | encuentro | |
+  | ![](images/a1/0533.jpg) | supermercado | s., m. | 超市 | Ellos compran en el supermercado. | | |
+  | ![](images/a1/0534.jpg) | Correos | s., m. | 邮局 | Voy a Correos a mandar una carta para mi familia. | | |
+  | ![](images/a1/0535.jpg) | limpiar | v., tr. | 清理 | El chico limpia la casa. | lavar | manchar, ensuciar |
+  | ![](images/a1/0536.jpg) | cama | s., f. | 床 | Su cama es muy grande. | | |
+  | ![](images/a1/0537.jpg) | terraza | s., f. | 天台 | Mis amigas y yo tomamos unas tapas en la terraza del bar. | | |
+  | ![](images/a1/0538.jpg) | oficina | s., f. | 办公室 | No hay nadie en la oficina. | despacho | |
+  | ![](images/a1/0539.jpg) | teléfono móvil | s., m. | 手机 | El señor habla por teléfono móvil con su mujer. | celular | |
+  | ![](images/a1/0540.jpg) | hacer una perdida | expr. | 打一下电话就挂 | Juan hace una perdida a su amigo para avisarle de que ya ha llegado. | dar un toque, hacer una (llamada) perdida | |
+  | ![](images/a1/0541.jpg) | esperar | v., tr. | 等待 | Los pasajeros esperan el tren. | | |
+  | ![](images/a1/0542.jpg) | armario | s., m. | 衣柜 | Su marido guarda la ropa en el armario. | | |
+  | ![](images/a1/0543.jpg) | comprar | v., tr. | 买 | La mujer compra en el supermercado. | adquirir | vender |
