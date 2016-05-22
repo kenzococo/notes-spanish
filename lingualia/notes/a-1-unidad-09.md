@@ -36,13 +36,11 @@
 
 ## Lección 42: Si quieres, te ayudo
 
-- 条件句
+- 条件复合句
 
   条件句，表示如果……就……的意思，通常用 `si` 来引导。
 
-  类型 1：
-
-  si + 一般现在时, 一般现在时：`si ..., ...`
+  类型 1：一般现在时 + 一般现在时
 
   > Si quieres, te ayudo.<br>
   > Si podéis, comemos todos juntos.<br>

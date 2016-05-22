@@ -1,4 +1,4 @@
-# 单词表
+# A1 单词表
 
 - **A1**
 
@@ -547,3 +547,64 @@
   | ![](images/a1/0541.jpg) | esperar | v., tr. | 等待 | Los pasajeros esperan el tren. | | |
   | ![](images/a1/0542.jpg) | armario | s., m. | 衣柜 | Su marido guarda la ropa en el armario. | | |
   | ![](images/a1/0543.jpg) | comprar | v., tr. | 买 | La mujer compra en el supermercado. | adquirir | vender |
+  | ![](images/a1/0544.jpg) | baño | s., m. | 浴室，卫生间 | El cuarto de baño es muy grande. | cuarto de baño, lavabo, servicio, aseo | |
+  | ![](images/a1/0545.jpg) | abrigo | s., m. | 大衣 | El abrigo es de color azul. | | |
+  | ![](images/a1/0546.jpg) | cocina | s., f. | 厨房 | Los cocineros preparan la cena en la cocina. | | |
+  | ![](images/a1/0547.jpg) | invierno | s., m. | 冬天 | En invierno las personas llevan abrigo. | | verano, estío |
+  | ![](images/a1/0548.jpg) | guardar | v., tr. | 保存 | La señora guarda la comida en la nevera. | esconder, conservar, tener, almacenar | sacar, entregar, dar |
+  | ![](images/a1/0549.jpg) | jersey | s., m. | 毛衣 | Su jersey es muy ancho. | pulóver (en Argentina), suéter | |
+  | ![](images/a1/0550.jpg) | alfombra | s., f. | 地毯 | En mi habitación hay una pequeña alfombra de colores. | moqueta, tapiz, felpudo | |
+  | ![](images/a1/0551.jpg) | felpudo | s., m. | 门前地垫 | En la puerta de casa tenemos un felpudo. | alfombrilla | |
+  | ![](images/a1/0552.jpg) | pasillo | s., m. | 走廊，门厅 | El pasillo de la casa de Ana es estrecho. | corredor | |
+  | ![](images/a1/0553.jpg) | estantería | s., f. | 书架 | En la estantería hay libros de todos los tamaños. | | |
+  | ![](images/a1/0554.jpg) | sucio | adj., m. | 脏的 | El niño tiene la cara sucia. | manchado | limpio |
+  | ![](images/a1/0555.jpg) | caro | adj., m. | 贵的 | El Bugatti Veyron es uno de los coches más caros del mundo. | costoso | barato, económico |
+  | ![](images/a1/0556.jpg) | aspirador | s., m. | 吸尘器 | A mi hija le gusta jugar con el aspirador. | | |
+  | ![](images/a1/0557.jpg) | jamón | s., m. | 香肠 | El camarero corta jamón. | | |
+  | ![](images/a1/0558.jpg) | yogur | s., m. | 奶酪 | Este yogur es de fresa. | | |
+  | ![](images/a1/0559.jpg) | pollo | s., m. | 小鸡，鸡肉 | Los pollos son de color amarillo. | | |
+  | ![](images/a1/0560.jpg) | cartera | s., f. | 钱包 | En mi cartera guardo las tarjetas de crédito. | monedero, portamonedas, billetero | |
+  | ![](images/a1/0561.jpg) | billete | s., m. | 钞票 | Estos billetes son de dólar. | | |
+  | ![](images/a1/0562.jpg) | pasta | s., f. | 意式面食 | Hoy he tomado pasta con tomate. | | |
+  | ![](images/a1/0563.jpg) | huevo | s., m. | 鸡蛋 | Me encantan los huevos fritos. | | |
+  | ![](images/a1/0564.jpg) | costar | v., tr. | 花费 | El coche cuesta 39.90 ringgit de Malasia. | valer | |
+  | ![](images/a1/0565.jpg) | kilo | s., m . | 千克 | El chocolate pesa medio kilo. | | |
+  | ![](images/a1/0566.jpg) | docena | s., f. | 一打，十二个 | He comprado una docena de huevos. | doce | |
+  | ![](images/a1/0567.jpg) | hamburguesa | s., f. | 汉堡 | Esta hamburguesa lleva queso y lechuga. | | |
+  | ![](images/a1/0568.jpg) | tomar nota | loc. verb. | 记笔记 | El periodista toma notas durante la entrevista. | apuntar | |
+  | ![](images/a1/0569.jpg) | bolígrafo | s., m. | 圆珠笔 | Yo escribo con bolígrafo. | lapicera (en Argentina) | |
+  | ![](images/a1/0570.jpg) | tienda | s., f. | 商店 | Esta tienda es de ropa. | | |
+  | ![](images/a1/0571.jpg) | rubio | adj., m. | 金色的，金发的（人） | Marylin Monroe es una de las rubias más famosas. | | |
+  | ![](images/a1/0572.jpg) | fruta | s., f. | 水果 | La fruta que más me gusta es la manzana. | | |
+  | ![](images/a1/0573.jpg) | naranja | s., f. | 橘子 | La chica exprime una naranja. | | |
+  | ![](images/a1/0574.jpg) | cajero | s., m. | 收银员 | Mariví trabaja como cajera en el supermercado. | | |
+  | ![](images/a1/0575.jpg) | bolsillo | s., m. | 口袋 | Este pantalón tiene dos bolsillos. | | |
+  | ![](images/a1/0576.jpg) | ladrón | s., m. | 小偷，劫匪 | El ladrón lleva la cara tapada. | carterista | |
+  | ![](images/a1/0577.jpg) | uva | s., f. | 葡萄 | Este racimo de uva es de color violeta. | | |
+  | ![](images/a1/0578.jpg) | llavero | s., m. | 钥匙圈 | Este llavero es de metal. | | |
+  | ![](images/a1/0579.jpg) | llave | s., f. | 钥匙 | Abro la puerta de casa con la llave. | | |
+  | ![](images/a1/0580.jpg) | vender | v., tr. | 卖 | La frutera vende piña. | | comprar |
+  | ![](images/a1/0581.jpg) | dedicarse | v., tr. | 致力于 | Ellos se dedican a la medicina. | trabajar | |
+  | ![](images/a1/0582.jpg) | moreno | adj., m. | 深色皮肤或头发的 | Estas personas son muy morenas de piel. | | |
+  | ![](images/a1/0583.jpg) | romántico | adj., m. | 浪漫的 | Este chico es muy romántico. | apasionado | |
+  | ![](images/a1/0584.jpg) | activo | adj., m. | 活泼的 | Juan es un niño muy activo, siempre está moviéndose. | dinámico, vivo, enérgico | pasivo, inactivo |
+  | ![](images/a1/0585.jpg) | sociable | adj., m./f. | 爱社交的 | Los burros son animales muy sociables. | simpático, accesible | antisociable, antipático |
+  | ![](images/a1/0586.jpg) | ojo | s., m. | 眼睛 | El bebé tiene los ojos de color azul. | | |
+  | ![](images/a1/0587.jpg) | bailar | v., tr./intr. | 跳舞 | Ellos bailan un tango. | danzar | |
+  | ![](images/a1/0588.jpg) | antiguo | adj., m. | 古老的 | Esta escultura es muy antigua. | viejo, anticuado, tradicional | reciente, actual, moderno |
+  | ![](images/a1/0589.jpg) | alegre | adj., m./f. | 愉快的 | El fin de semana estoy más alegre que el lunes. | contento | triste |
+  | ![](images/a1/0590.jpg) | toro | s., m. | 公牛 | Los toros son animales muy fuertes y de color negro. | astado | |
+  | ![](images/a1/0591.jpg) | torero | s., m. | 斗牛士 | El torero viste con colores brillantes. | diestro, matador | |
+  | ![](images/a1/0592.jpg) | siesta | s., f. | 午休 | Penélope hace la siesta todos los días. | | |
+  | ![](images/a1/0593.jpg) | diccionario | s., m. | 字典 | Yoshi busca una palabra en su diccionario japonés- inglés. | léxico, enciclopedia | |
+  | ![](images/a1/0594.jpg) | escuchar | v., tr. | 听 | El niño escucha música. | percibir, oír | |
+  | ![](images/a1/0595.jpg) | preguntar | v., tr. | 提问 | El estudiante pregunta al profesor en clase. | interrogar, cuestionar | contestar, responder |
+  | ![](images/a1/0596.jpg) | primo | s., m. | 堂（表）兄弟姐妹 | David (izquierda) es el primo de Dani (derecha). | | |
+  | ![](images/a1/0597.jpg) | comprender | v., tr. | 理解 | El chico no comprende la fórmula matemática. | entender, captar, enterarse | ignorar, desconocer |
+  | ![](images/a1/0598.jpg) | verano | s., m. | 夏天 | En verano vamos a la playa. | estío | invierno |
+  | ![](images/a1/0599.jpg) | dar una vuelta | expr. | 散步 | Ellos dan una vuelta por la playa. | | |
+  | ![](images/a1/0600.jpg) | temporal | adj., m./f. | 临时的 | Los dientes de leche son temporales. | eventual, provisional | indefinido, permanente, fijo |
+  | ![](images/a1/0601.jpg) | echar de menos | expr. | 想恋 | La niña echa de menos a su madre. | extrañar, recordar, pensar | olvidar |
+  | ![](images/a1/0602.jpg) | distancia | s., f. | 距离 | La distancia entre Barcelona y Madrid es de 622 kilómetros. | separación, lejanía | cercanía, proximidad |
+  | ![](images/a1/0603.jpg) | romper | v., tr. | 破坏 | Los niños han roto la ventana. | partir | reparar, arreglar |
+  | ![](images/a1/0604.jpg) | idioma | s., m. | 语言 | Ellos hablan diferentes idiomas. | lengua, lenguaje | |
