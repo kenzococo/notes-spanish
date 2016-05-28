@@ -89,6 +89,78 @@
 
   > Este cuadro es del barón von Steuben.
 
-  varón 儿子，男孩
+  varón 雄性
 
   > Ellos han tenido un hijo varón.
+
+## Lección 4: ¿Cuándo son las rebajas?
+
+- 动词 Ser 的用法（1）
+
+  除了已知的用法（表示国籍，身份，所有权，职业等等），Ser 还可以表示：
+
+  庆祝地点和时间（相当于 celebrarse）
+
+  > La boda **es** en la iglesia. (= La boda se celebra en la iglesia).
+
+  问答时刻，es/son：
+
+  > A: ¿Qué hora es? <br>
+  > B: Son las siete y diez de la mañana.
+
+  表示时间早晚，ser + adverbio de tiempo：
+
+  > Es muy temprano para ir a la oficina: todavía son las 5 de la mañana.
+
+- 发音
+
+  同音词 [é.t∫o]
+
+  hecho 动词 hacer 的过去分词
+
+  > Marcos todavía no ha hecho todos sus deberes de la escuela.
+
+  echo 动词 echar 的一单形式，倾，倒
+
+  > Todos los días echo un poco de agua a la planta.
+
+## Lección 5: Somos consumistas...
+
+- 动词 Ser 的用法（2）
+
+  表示价格，es/son（根据价格的不同而不同）：
+
+  > A: Ya está todo, ¿cuánto es? <br>
+  > B: Son 3, 50 euros.
+
+  区别 costar, ser
+
+  ¿cuánto cuesta? 询问某件商品的售价
+
+  ¿cuánto es? 在付账的时候，询问总价
+
+  es para 表示目的
+
+  > Este paquete postal es para Rusia.<br>
+  > Este paquete postal es para Mirzaev, mi amigo de Rusia.
+
+- 发音
+
+  首字母缩写
+
+  AVE = Alta Velocidad Española 西班牙高速铁路，ave（f.，鸟）
+
+  > Nosotros vamos a coger el AVE a Sevilla.
+
+  RAE = Real Academia Española 西班牙皇家学院，负责西班牙语言的规范
+
+  > He comprado el diccionario de la RAE.
+
+  ONG = Organización No Gubernamental 非政府组织（英语 NGO）
+
+  > Cruz Roja es una ONG internacional
+
+
+  DNI = Documento Nacional de Identidad 身份证
+
+  > Este es el DNI de mi hermano.
