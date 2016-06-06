@@ -75,3 +75,15 @@
 | ![](images/a2/0071.jpg) | cara | s., f. | 脸 | La chica tiene la cara maquillada. | tez, rostro | |
 | ![](images/a2/0072.jpg) | bragas | s., f. | 内裤 | Estoy pensando en comprar unas bragas nuevas. | | |
 | ![](images/a2/0073.jpg) | sujetador | s., m. | 胸罩 | Estoy pensando en comprar un sujetador. | sostén | |
+| ![](images/a2/0074.jpg) | tolerante | adj., m./f. | 容忍的，宽容的 | El primo de Irina es muy tolerante con ella: no se molesta cuando juega con él. | transigente, respetuoso, paciente | intransigente |
+| ![](images/a2/0075.jpg) | tranquilo | adj., m. | 安静的 | Este oso panda es muy tranquilo, siempre está descansando. | | |
+| ![](images/a2/0076.jpg) | abierto | adj., m. | 开朗的 | El bebé es muy abierto: siempre sonríe a la gente. | extrovertido | cerrado, introvertido |
+| ![](images/a2/0077.jpg) | pañuelo | s., m. | 方巾 | La mujer lleva un pañuelo de seda en color claro. | chal, fular, foulard (voz francesa) | |
+| ![](images/a2/0078.jpg) | biquini | s., f. | 比基尼 | La modelo lleva un biquini de color azul. | bikini | |
+| ![](images/a2/0079.jpg) | pescadería | s., f. | 鱼店 | El chico está pensando qué va a comprar en la pescadería. | | |
+| ![](images/a2/0080.jpg) | zapatería | s., f. | 鞋店 | Los zapatos de esta zapatería están tirados por el suelo. | | |
+| ![](images/a2/0081.jpg) | frutería | s., f. | 水果店 | En esta frutería tienen mucha fruta. | | |
+| ![](images/a2/0082.jpg) | joyería | s., f. | 珠宝店 | Esta joyería tiene joyas muy caras. | | |
+| ![](images/a2/0083.jpg) | dedo | s., m. | 手指，脚趾 | Los niños levantan sus dedos pulgares. | | |
+| ![](images/a2/0084.jpg) | mano | s., f. | 手 | En la imagen se ve la radiografía de una mano. | garra, zarpa (en animales) | |
+| ![](images/a2/0085.jpg) | pulsera | s., f. | 手镯 | La niña lleva una pulsera muy original. | | |
