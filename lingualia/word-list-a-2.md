@@ -87,3 +87,27 @@
 | ![](images/a2/0083.jpg) | dedo | s., m. | 手指，脚趾 | Los niños levantan sus dedos pulgares. | | |
 | ![](images/a2/0084.jpg) | mano | s., f. | 手 | En la imagen se ve la radiografía de una mano. | garra, zarpa (en animales) | |
 | ![](images/a2/0085.jpg) | pulsera | s., f. | 手镯 | La niña lleva una pulsera muy original. | | |
+| ![](images/a2/0086.jpg) | bebé | s., m. | 婴儿 | La madre da un beso a su bebé. | | |
+| ![](images/a2/0087.jpg) | morir | v., intr. | 死亡 | En el cementerio se encuentran las personas que han muerto. | fallecer | nacer, vivir |
+| ![](images/a2/0088.jpg) | nacer | v., intr. | 出生 | El bebé acaba de nacer. | | morir, fallecer |
+| ![](images/a2/0089.jpg) | adolescente | sust./adj., m./f. | 青年 | Estas tres adolescentes van a la misma clase en el instituto. | joven | niño, adulto |
+| ![](images/a2/0090.jpg) | doler | v., intr. | 疼，痛 | Al niño le duelen los dientes. | | |
+| ![](images/a2/0091.jpg) | mareado | adj., m. | 头晕的 | La niña comienza a estar mareada después de tantas vueltas. | | |
+| ![](images/a2/0092.jpg) | alergia | s., f. | 过敏的 | Arturo tiene alergia a algunas plantas. | | |
+| ![](images/a2/0093.jpg) | sueño | s., m. | 梦 | El gato de Roberto tiene sueño. | | |
+| ![](images/a2/0094.jpg) | tos | s., f. | 咳嗽 | El niño tiene bastante tos. | carraspeo | |
+| ![](images/a2/0095.jpg) | jarabe | s., m. | 糖浆 | La madre da un jarabe para la tos a su hija. | | |
+| ![](images/a2/0096.jpg) | dibujar | v., tr. | 画画 | A Juan le encanta dibujar con muchos colores. | delinear | |
+| ![](images/a2/0097.jpg) | don de gentes | sust., m. | 交际能力 | Para ser un buen político es necesario tener don de gentes. | sociabilidad | |
+| ![](images/a2/0098.jpg) | memorizar | v., tr. | 记住 | Estrella tiene que memorizar muchos conceptos para su examen. | recordar | olvidar |
+| ![](images/a2/0099.jpg) | estatua | s., f. | 雕像 | La estatua de la Libertad es un símbolo de la ciudad de Nueva York. | efigie, escultura, imagen, figura | |
+| ![](images/a2/0100.jpg) | vista panorámica | s., f. | 全景图 | Me gusta fotografiar la vista panorámica de cada ciudad a la que viajo. | | |
+| ![](images/a2/0101.jpg) | maestro | s., m. | 老师 | La maestra de informática ayuda a una estudiante. | profesor, instructor | alumno, discípulo |
+| ![](images/a2/0102.jpg) | academia | s., f. | 学校，学院 | Hoy comienzan las inscripciones en la academia de baile. | escuela | |
+| ![](images/a2/0103.jpg) | violín | s., m. | 小提琴 | Rosa toca el violín. | | |
+| ![](images/a2/0104.jpg) | instrumento | s., m. | 乐器 | En la tienda de música venden muchos instrumentos diferentes. | | |
+| ![](images/a2/0105.jpg) | flamenco | s., m. | 弗拉门戈 | Cuando voy a Sevilla, voy a un espectáculo de flamenco. | | |
+| ![](images/a2/0106.jpg) | tutor | s., m. | 导师，家教 | El tutor explica a Ricardo qué tiene que estudiar. | maestro, profesor | |
+| ![](images/a2/0107.jpg) | ser el ojo derecho | expr. coloq. | 掌上明珠 | Mario es el ojito derecho de su padre porque siempre juega mucho con él. | | |
+| ![](images/a2/0108.jpg) | orquesta | s., f. | 管弦乐队 | Rosa toca el violín en una orquesta. | banda | |
+| ![](images/a2/0109.jpg) | enseñar | v., tr. | 教学 | El profesor está enseñando lengua china a sus alumnos extranjeros. | explicar | |

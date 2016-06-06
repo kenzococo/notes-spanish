@@ -95,3 +95,71 @@
   > Los profesores utilizan cada día más las TIC en el aula.
 
 ## Lección 8: Hace un año se separó
+
+- 一般过去时 Pretérito indefinido
+
+  Hace + 超过 24 小时的一段时间：
+
+  > Hace un año se separó de su marido.
+  >
+  > Se separó de su marido hace un año.
+  >  
+  > Se separó hace un año de su marido.
+
+  注意：Hace + 小于 24 小时的一段时间，通常用现在完成时 Pretérito Perfecto
+
+  > Hace 20 minutos <s>llamé</s> por teléfono a mi amiga.
+  >
+  > Hace 20 minutos he llamado por teléfono a mi amiga.
+
+  在西班牙北部，如 Galicia，没有现在完成时的语态，所以使用一般过去时
+
+- 通常一般过去时表示过去发生的一次已完成的动作，没有重复发生
+
+  > El año pasado viajé a Japón.
+
+- 发音
+
+  otorrinolaringólogo [o.to.ri.no.la.ɾiŋ.gó.lo.γo] 耳鼻喉科医生
+
+## Lección 9: Ella da clases de violín
+
+- 一般现在时
+
+  una vez 一起使用，表示过去发生的一次动作，而且不会再去重复
+
+  > Una vez comí durian. 我吃过一次榴莲（之后再也不会吃了）
+
+  一段时间 + pasado/a，如 el mes pasado, el año pasado, el lunes pasado, la semana pasada, el verano pasado
+
+  > La semana pasada renové mi pasaporte.
+
+  Hace + 一段时间（超过小时）
+
+  > Hace tres meses comenzamos las clases en la Universidad.
+
+  ayer, anoche
+
+  > Anoche me acosté muy tarde.
+
+- 发音
+
+  también / tan bien
+
+  también 副词，表示也是，重音在 e 上
+
+  > Ayer pasé por tu casa. Hoy también he pasado.
+
+  tan bien 表示极好的意思
+
+  > El fin de semana lo pasé tan bien en la piscina que este fin de semana quiero volver a ir.
+
+  tampoco / tan poco
+
+  tampoco 副词，表示也不是
+
+  > A Roberto no le gustan las cucarachas. A mí tampoco.
+
+  tan poco 表示极少的意思
+
+  > He dormido tan poco que hoy estoy muy cansado.
