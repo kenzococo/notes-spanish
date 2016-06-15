@@ -108,6 +108,18 @@
 | ![](images/a2/0104.jpg) | instrumento | s., m. | 乐器 | En la tienda de música venden muchos instrumentos diferentes. | | |
 | ![](images/a2/0105.jpg) | flamenco | s., m. | 弗拉门戈 | Cuando voy a Sevilla, voy a un espectáculo de flamenco. | | |
 | ![](images/a2/0106.jpg) | tutor | s., m. | 导师，家教 | El tutor explica a Ricardo qué tiene que estudiar. | maestro, profesor | |
-| ![](images/a2/0107.jpg) | ser el ojo derecho | expr. coloq. | 掌上明珠 | Mario es el ojito derecho de su padre porque siempre juega mucho con él. | | |
+| ![](images/a2/0107.jpg) | ser el ojo(ojito) derecho | expr. coloq. | 掌上明珠 | Mario es el ojito derecho de su padre porque siempre juega mucho con él. | | |
 | ![](images/a2/0108.jpg) | orquesta | s., f. | 管弦乐队 | Rosa toca el violín en una orquesta. | banda | |
 | ![](images/a2/0109.jpg) | enseñar | v., tr. | 教学 | El profesor está enseñando lengua china a sus alumnos extranjeros. | explicar | |
+| ![](images/a2/0110.jpg) | brazo | s., m. | 胳膊 | El chico ejercita sus brazos en el gimnasio. | | |
+| ![](images/a2/0111.jpg) | oído | s., m. | 听力，内耳 | El médico explica las partes del oído. | | |
+| ![](images/a2/0112.jpg) | guitarra | s., f. | 吉他 | Cuando tengo tiempo, toco la guitarra. | | |
+| ![](images/a2/0113.jpg) | piano | s., m. | 钢琴 | Mireia está aprendiendo a tocar el piano en una academia de música. | | |
+| ![](images/a2/0114.jpg) | músico | s., m. | 音乐家 | Niccolò Paganini es un músico italiano, especializado en tocar el violín. | | |
+| ![](images/a2/0115.jpg) | poesía | s., f. | 诗人 | Esta poesía está escrita en portugués. | | |
+| ![](images/a2/0116.jpg) | diablo | s., m. | 魔鬼 | Homer no sabe si escuchar al ángel o al diablo. | demonio | ángel |
+| ![](images/a2/0117.jpg) | cuerda | s., f. | 弦 | Este instrumento musical tiene 8 cuerdas. | | |
+| ![](images/a2/0118.jpg) | partitura | s., f. | 乐谱 | El músico mira la partitura para tocar. | | |
+| ![](images/a2/0119.jpg) | guión | s., m. | 剧本 | Los actores leen el guión antes de comenzar. | | |
+| ![](images/a2/0120.jpg) | garganta | s., f. | 喉咙 | A Luis le duele mucho la garganta. | | |
+| ![](images/a2/0121.jpg) | tratamiento | s., m. | 治疗 | Ana recibe un tratamiento para su enfermedad. | medicación | |

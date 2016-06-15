@@ -160,6 +160,28 @@
 
   > A Roberto no le gustan las cucarachas. A mí tampoco.
 
-  tan poco 表示极少的意思
+  tan poco
 
   > He dormido tan poco que hoy estoy muy cansado.
+
+## Lección 10: Niccolò Paganini murió en 1840
+
+- 一般过去时用于自传中（biografía）
+
+  自传通常是一个人过去的经历，通常发生在确定的年份
+
+  > En 2003 escuché en directo a Robbie Williams en su concierto de Barcelona.
+
+  在自传中，也可以看到诸如 después, más tarde, luego 之类的词
+
+  > En el año 2003 escuché en directo a Robbie Williams. Dos días después volví a casa.
+
+- 发音
+
+  sobre 名词，信封
+
+  > El sobre está cerrado.
+
+  sobre 介词，在……上，关于
+
+  > Los ordenadores están sobre la mesa.
