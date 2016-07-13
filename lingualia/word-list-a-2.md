@@ -123,3 +123,27 @@
 | ![](images/a2/0119.jpg) | guión | s., m. | 剧本 | Los actores leen el guión antes de comenzar. | | |
 | ![](images/a2/0120.jpg) | garganta | s., f. | 喉咙 | A Luis le duele mucho la garganta. | | |
 | ![](images/a2/0121.jpg) | tratamiento | s., m. | 治疗 | Ana recibe un tratamiento para su enfermedad. | medicación | |
+| ![](images/a2/0122.jpg) | completar | v., tr. | 完成 | Jorge está completando el formulario. | rellenar, terminar | |
+| ![](images/a2/0123.jpg) | agenda | s., f. | 日程表，日志 | Yo llevo la agenda siempre en el bolso. | | |
+| ![](images/a2/0124.jpg) | archivador | s., m. | 文档 | Guardo mis contratos de trabajo en un archivador. | carpeta, clasificador | |
+| ![](images/a2/0125.jpg) | facultad | s., f. | 系，学院 | Pedro estudia en la facultad de Ciencias de la Información. | escuela | |
+| ![](images/a2/0126.jpg) | apuntes | s., m. | 笔记 | Ana tiene todos los apuntes de la lección de hoy. | notas | |
+| ![](images/a2/0127.jpg) | negocio | s., m. | 商店 | Mi tía tiene un negocio de zapaterías. | | |
+| ![](images/a2/0128.jpg) | parque de atracciones | s., m. | 游乐园 | A los niños les encanta ir al parque de atracciones. | | |
+| ![](images/a2/0129.jpg) | vértigo | s., m. | 头晕 | Muchas personas tienen vértigo en lugares altos. | | |
+| ![](images/a2/0130.jpg) | pierna | s., f. | 腿 | Las chicas caminan por la playa mostrando sus piernas. | pata (animales) | |
+| ![](images/a2/0131.jpg) | temblar | v., intr. | 战栗，发抖 | El chico está temblando de frío. | vibrar | |
+| ![](images/a2/0132.jpg) | pasear | v., intr. | 散步 | Belén pasea con su gato por el jardín. | caminar, andar, dar una vuelta | |
+| ![](images/a2/0133.jpg) | centro histórico | s., m. | 历史中心 | Mi casa está en el centro histórico de México DF. | | |
+| ![](images/a2/0134.jpg) | propina | s., f. | 小费 | Ellos han dejado 10 céntimos de propina. | extra, prima (para deportes), gratificación | |
+| ![](images/a2/0135.jpg) | carta | s., f. | 菜单 | En la carta de este restaurante hay carnes y pescados. | menú | |
+| ![](images/a2/0136.jpg) | cuenta | s., f. | 账单 | La cuenta del bar es de 50,10€. | nota | |
+| ![](images/a2/0137.jpg) | salmón | s., m. | 大马哈鱼 | El salmón se utiliza para preparar sushi. | | |
+| ![](images/a2/0138.jpg) | merluza | s., f. | 鳕鱼 | A mí me gusta mucho comer merluza al horno. | | |
+| ![](images/a2/0139.jpg) | jamón york | s., m. | 火腿 | Yo estoy en la carnicería comprando jamón york. | | |
+| ![](images/a2/0140.jpg) | funcionario | s., m. | 公务员 | Los bomberos son un grupo de funcionarios. | | |
+| ![](images/a2/0141.jpg) | candidato | s., m. | 候选人 | Barack Obama fue candidato del Partido Demócrata en el año 2008. | aspirante, postulante (en América) | |
+| ![](images/a2/0142.jpg) | demanda | s., f. | 要求，需求 | Algunas personas hacen una demanda de empleo en la calle. | | oferta (laboral) |
+| ![](images/a2/0143.jpg) | requisito | s., m. | 条件 | Un requisito para este trabajo es hablar inglés. | obligación | |
+| ![](images/a2/0144.jpg) | práctica | s., f. | 实践，练习 | Irina es estudiante de periodismo y está de prácticas en una televisión local. | prueba | |
+| ![](images/a2/0145.jpg) | factura | s., f. | 帐单，发票 | En esta factura hay muchos servicios y productos. | recibo, nota | |
