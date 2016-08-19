@@ -147,3 +147,15 @@
 | ![](images/a2/0143.jpg) | requisito | s., m. | 条件 | Un requisito para este trabajo es hablar inglés. | obligación | |
 | ![](images/a2/0144.jpg) | práctica | s., f. | 实践，练习 | Irina es estudiante de periodismo y está de prácticas en una televisión local. | prueba | |
 | ![](images/a2/0145.jpg) | factura | s., f. | 帐单，发票 | En esta factura hay muchos servicios y productos. | recibo, nota | |
+| ![](images/a2/0146.jpg) | cazadora | s., f. | 猎装, 夹克 | Roberto lleva una cazadora negra para ir con la moto. | chupa (coloquial) | |
+| ![](images/a2/0147.jpg) | guantes | s., m. | 手套 | Cuando hace mucho frío, utilizo guantes. | | |
+| ![](images/a2/0148.jpg) | dientes | s., m. | 牙齿 | La chica tiene unos dientes perfectos. | | |
+| ![](images/a2/0149.jpg) | lengua | s., f. | 舌头 | La niña saca la lengua. | | |
+| ![](images/a2/0150.jpg) | colonia | s., f. | 花露水 | Ana se pone su colonia favorita. | perfume, esencia | |
+| ![](images/a2/0151.jpg) | alumno | s., m. | 学生 | Estos niños son alumnos de la misma escuela. | estudiante | |
+| ![](images/a2/0152.jpg) | matemáticas | s., f. | 数学 | El niño utiliza la calculadora para su clase de matemáticas. | | |
+| ![](images/a2/0153.jpg) | maletín | s., m. | 手提包 | El profesor lleva los exámenes en el maletín. | | |
+| ![](images/a2/0154.jpg) | azafata | s., f. | 空姐 | La azafata nos saluda cuando entramos al avión. | | |
+| ![](images/a2/0155.jpg) | uniforme | s., m. | 制服 | Este es el uniforme que llevan los policías que vigilan la plaza de Tian'anmen. | | |
+| ![](images/a2/0156.jpg) | diploma | s., m. | 证书，学位，文凭 | El presidente entrega un diploma a otro político. | certificado, título | |
+| ![](images/a2/0157.jpg) | congreso | s., m. | 代表大会 | Esta semana se celebra un congreso de arquitectos. | asamblea, reunión, convención, seminario, conferencia | |

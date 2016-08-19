@@ -141,7 +141,7 @@
 
 - 发音
 
-  [k]：`C + a, o, u`
+  [k]：`c + a, o, u`
 
   > A Cuesta le cuesta <br>
   subir la cuesta, <br>
@@ -151,3 +151,42 @@
   su.βíɾ.la.kwés.ta <br>
   i.em.mé.ðjo.ðe.la.kwés.ta <br>
   ba.i.se.a.kwés.ta]
+
+## Lección 13: Una vez fui a una entrevista de trabajo
+
+- 一般过去时，不规则变位
+
+  | SER, IR | |
+  | --- | --- |
+  |yo fui | nosotros fuimos |
+  |tú fuiste | vosotros fuisteis |
+  |él fue | ellos fueron |
+
+  | ESTAR | |
+  | --- | --- |
+  | yo estuve | nosotros estuvimos |
+  | tú estuviste | vosotros estuvisteis |
+  | él estuvo | ellos estuvieron |
+
+  | HACER | |
+  | --- | --- |
+  | yo hice | nosotros hicimos |
+  | tú hiciste | vosotros hicisteis |
+  | él hizo | ellos hicieron |
+
+- 其他不规则变位
+
+  词根的变化：
+
+  `o -> u`: `dormir, morir`
+
+  > dormir: yo dormí, tú dormiste, él durmió, nosotros dormimos, vosotros dormisteis, ellos durmieron
+
+  `e -> i`: `pedir, conseguir, corregir, reír, repetir, seguir, sentir, vestirse`
+
+  > pedir: yo pedí, tú pediste, él pidió, nosotros pedimos, vosotros pedisteis, ellos pidieron
+
+  `querer, venir`
+
+  > querer: yo quise, tú quisiste, él quiso, nosotros quisimos, vosotros quisisteis, ellos quisieron
+  > venir: yo vine, tú viniste, él vino, nosotros vinimos, vosotros vinisteis, ellos vinieron
