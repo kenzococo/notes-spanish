@@ -1132,3 +1132,35 @@
   | aguacate | m. | 鳄梨 | avocado |
   | cacahuete | m. | 花生 | peanut |
   | cacao | m. | 可可 | cocoa |
+
+- **Unidad 8 El barrio ideal**
+
+  | 单词 | 词性 | 释义 | 英文 |
+  | --- | --- | --- | --- |
+  | ideal | adj. | 理想的 | ideal |
+  | sitio | m. | 地点，位置 | place, location |
+  | servicio | m. | 服务 | service |
+  | peatonal | adj. | 步行的 | pedestrian |
+  | contenedor | m. | 垃圾箱 | trash can |
+  | basura | f. | 垃圾 | litter |
+  | parque | m. | 公园 | park |
+  | cajero | m. | 取款机 | cashier |
+  | automático | adj. | 自动的 | automatic |
+  | público | adj. | 公开的 | public |
+  | comercial | adj. | 商业的 | commercial |
+  | supermercado | m. | 超市 | supermarket |
+  | parada | f. | 站台 | stop |
+  | iglesia | f. | 教堂 | church |
+  | panadería | f. | 面包房 | bakery |
+  | afueras | f. | 复数，郊外 | outskirts |
+  | cerca | adv. | 附近 | nearby |
+  | crear | v. | 创造 | create |
+  | ofrecer | v. | 提供 | offer |
+  | edificio | m. | 建筑 | building |
+  | elegante | adj. | 高贵的 | elegant |
+  | burgués | adj. | 中产的 | middle-class |
+  | lleno/a | adj. | 满的 | full |
+  | lujoso/a | adj. | 奢侈的 | luxurious |
+  | galería | f. | 画廊 | gallery |
+  | recto/a | adj. | 直的 | straight |
+  | paralelo/a | adj. | 平行的 | parallel |

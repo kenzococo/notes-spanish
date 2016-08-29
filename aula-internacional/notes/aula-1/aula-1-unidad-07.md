@@ -86,7 +86,7 @@
   询问食物的做法
 
   > El pescado, **¿comó está hecho?**
-  > **A la plancha**
+  > **A la plancha**.
 
 - 佐菜 Acompañamiento
 
