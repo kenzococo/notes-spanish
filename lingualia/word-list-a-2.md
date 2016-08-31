@@ -159,3 +159,27 @@
 | ![](images/a2/0155.jpg) | uniforme | s., m. | 制服 | Este es el uniforme que llevan los policías que vigilan la plaza de Tian'anmen. | | |
 | ![](images/a2/0156.jpg) | diploma | s., m. | 证书，学位，文凭 | El presidente entrega un diploma a otro político. | certificado, título | |
 | ![](images/a2/0157.jpg) | congreso | s., m. | 代表大会 | Esta semana se celebra un congreso de arquitectos. | asamblea, reunión, convención, seminario, conferencia | |
+| ![](images/a2/0158.jpg) | recado | s., m. | 差事，使命 | Julio suele ir a hacer los recados en bicicleta. | | |
+| ![](images/a2/0159.jpg) | carnicería | s., f. | 肉店 | Muchas personas hacen sus compras en la carnicería. | | |
+| ![](images/a2/0160.jpg) | paquete | s., m. | 包裹，小包 | A mi hermano pequeño le encantan los paquetes de cereales para desayunar. | | |
+| ![](images/a2/0161.jpg) | arroz | s., m. | 米饭 | En Asia se utiliza mucho el arroz blanco para acompañar otros platos. | | |
+| ![](images/a2/0162.jpg) | galleta | s., f. | 饼干 | Siempre desayuno galletas con café o con leche. | | |
+| ![](images/a2/0163.jpg) | ajo | s., m. | 洋葱 | Al arroz al horno le pongo una cabeza de ajo para darle más sabor. | | |
+| ![](images/a2/0164.jpg) | vegetariano | adj., m. | 素食的 | Hoy vamos a comer unas brochetas vegetarianas. | | |
+| ![](images/a2/0165.jpg) | receta | s., f. | 药方，配方 | Juan se ha comprado un libro de recetas. | | |
+| ![](images/a2/0166.jpg) | cazuela | s., f. | 砂锅 | La cazuela está limpia y vacía. | cacerola, olla | |
+| ![](images/a2/0167.jpg) | barro | s., m. | 泥 | El niño está haciendo un jarrón de barro. | | |
+| ![](images/a2/0168.jpg) | despistado | adj., m. | 迷失方向的 | Pedro es muy despistado y siempre pierde a sus amigos por el camino. | | atento |
+| ![](images/a2/0169.jpg) | tofu | s., m. | 豆腐 | Me encanta comer tofu frito con verduras. | | |
+| ![](images/a2/0170.jpg) | informática | s., f. | 信息学 | A Raúl le apasiona la informática. | | |
+| ![](images/a2/0171.jpg) | comercial | s., m. | 销售员 | José Luis trabaja como comercial telefónico para una compañía de seguros. | representante | |
+| ![](images/a2/0172.jpg) | canguro | s., m. | 袋鼠，保姆 | Arturo trabaja como canguro los fines de semana. | | |
+| ![](images/a2/0173.jpg) | incorporación inmediata | s., f. | 立即开始 | La empresa ofrece incorporación inmediata en su oficina. | | |
+| ![](images/a2/0174.jpg) | reunión | s., f. | 会议 | Esta mañana hemos tenido una reunión en la oficina. | | |
+| ![](images/a2/0175.jpg) | socio | s., m. | 同事，伙伴 | Ellos son socios de un club de fútbol. | asociado, accionista | |
+| ![](images/a2/0176.jpg) | experiencia | s., f. | 经验 | La chica tiene experiencia como periodista. | práctica | |
+| ![](images/a2/0177.jpg) | despacho | s., m. | 办公室 | Miguel trabaja en su nuevo despacho. | oficina, estudio, bufete (de abogados) | |
+| ![](images/a2/0178.jpg) | contestar | v., tr. | 回答 | El piloto contesta a todas las preguntas de la entrevista. | | |
+| ![](images/a2/0179.jpg) | librería | s., f. | 书店 | En la librería hay libros de todo tipo. | | |
+| ![](images/a2/0180.jpg) | correo electrónico | s., m. | 电子邮件 | Todos los días recibo correos electrónicos de mis amigos. | | |
+| ![](images/a2/0181.jpg) | editorial | s., f. | 出版社 | Este libro para aprender español es de la editorial Edelsa. | | |

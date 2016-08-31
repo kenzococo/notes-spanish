@@ -190,3 +190,64 @@
 
   > querer: yo quise, tú quisiste, él quiso, nosotros quisimos, vosotros quisisteis, ellos quisieron
   > venir: yo vine, tú viniste, él vino, nosotros vinimos, vosotros vinisteis, ellos vinieron
+
+- 发音
+
+  缩写
+
+  DGT, Dirección General de Tráfico 交通总局
+
+  > La DGT tiene paneles informativos por las carreteras
+
+  ESO, Educación Secundaria Obligatoria 中等义务教育
+
+  > Tania y Lara son compañeras desde que comenzaron la ESO.
+
+  CC.OO., Comisiones Obreras 西班牙劳工委员会
+
+  > Miembros de CC.OO. participaron en la huelga general.
+
+  SGAE, Sociedad General de Autores y Editores 西班牙作家和出版商协会
+
+  > La SGAE se encarga de controlar las copias ilegales.
+
+## Lección 14: Me lo dijo, pero lo he olvidado
+
+- 一般过去时和现在完成时的区别
+
+  现在完成时表示一个最近的过去，时间上用：hoy, esta mañana, esta semana, este mes, este año...
+
+  > Esta mañana he hecho todos los deberes de la profesora.
+
+  一般过去时表示一个已经结束的过去，时间上用：ayer, anoche, la semana pasada, el mes pasado, el
+año pasado...
+
+  > El año pasado comencé un curso de danza.
+
+  现在完成是可以表示过去重复进行的动作：siempre, muchas veces, estos días, últimamente...
+
+  > Últimamente he tenido mucho tiempo libe para leer.
+
+  一般过去时可以表示过去只进行一次的动作：una vez, en una ocasión, el otro día...
+
+- 发音
+
+  hombre m. 男人
+
+  hambre f. 饥饿
+
+  hombro m. 肩膀
+
+## Lección 15: Fuimos a la tienda donde buscan personal
+
+- 连词 donde，必须要有先行词，相当于 en el que，表示位置
+
+  > El mercado es el lugar donde compro las verduras.
+
+- 连词 a donde，没有先行词，表示方向
+
+  > He ido a donde me indica el cartel.
+
+- 发音
+
+  pico m. 鸟的嘴巴，喙；山顶
