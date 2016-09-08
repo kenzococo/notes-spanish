@@ -26,7 +26,7 @@
 
   > Nunca hemos estado en la India.
 
-- Pretérito Perfecto
+- Pretérito Indefinido
 
   acciones pasadas ocurridas 1 vez periodo de tiempo terminado
 

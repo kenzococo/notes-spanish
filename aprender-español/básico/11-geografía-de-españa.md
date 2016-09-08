@@ -9,7 +9,7 @@
   <br> Francia, Andorra, portugal, Gibraltar
   <br> Pirineos: 400 kilómetros
   <br> estrecho de Gibraltar: 14 kilómetros
-  <br> África: Ceuta y Melilla de Marruecos
+  <br> África: Ceuta y Melilla
   <br> islas Baleares, islas Canarias
 
 - altitud media: 660 metros
