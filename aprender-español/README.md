@@ -31,5 +31,5 @@
   - [23. Ser y Estar](básico/23-ser-y-estar.md)
   - [24. Muebles y otros objetos de la casa](básico/24-muebles-y-otros-objetos-de-la-casa.md)
 
-- [B. Nivel Intermedio]
-  - [01. La familia](intermedio/01-la-familia,md)
+- [B. Nivel Intermedio](intermedio)
+  - [01. La familia](intermedio/01-la-familia.md)
