@@ -95,3 +95,21 @@
   | sede | f. | 总部 | HQ |
   | idóneo | adj. | 合适的 | fit, appropriate |
   | adicto | adj. | 沉迷的 | addicted |
+  | retrasar | v. | 推迟 | postpone, set back |
+  | cancelar | v. | 取消 | cancel |
+  | marcharse | v. | 离开 | go, leave, depart |
+  | exigir | v. | 要求 | demand, require |
+  | convertir | v. | 改变，转化 | change, transform |
+  | perderse | v. | 损失，错过 | miss |
+  | descansar | v. | 休息 | rest |
+  | moderación | f. | 适度，约束 | moderacion, restraint |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  | 
