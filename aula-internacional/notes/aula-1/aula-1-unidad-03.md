@@ -163,11 +163,11 @@
 
 #### 西班牙地图
 
-![西班牙地图](mapa-de-españa.bmp)
+![西班牙地图](mapa-de-españa.jpg)
 
 #### 拉丁美洲地图
 
-![拉丁美洲地图](mapa-de-latinoamérica.bmp)
+![拉丁美洲地图](mapa-de-latinoamérica.jpg)
 
 #### 西语国家信息
 
