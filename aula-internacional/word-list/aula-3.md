@@ -103,13 +103,13 @@
   | perderse | v. | 损失，错过 | miss |
   | descansar | v. | 休息 | rest |
   | moderación | f. | 适度，约束 | moderacion, restraint |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
+  | dedicar | v. | 奉献 | dedicate |
+  | mudarse | v. | 搬家 | move |
+  | paro | m. | 失业 | unemployment |
   | 
+  |
+  |
+  |
+  |
+  |
+  |

@@ -1164,3 +1164,24 @@
   | galería | f. | 画廊 | gallery |
   | recto/a | adj. | 直的 | straight |
   | paralelo/a | adj. | 平行的 | parallel |
+  | perpendicular | adj. | 垂直的 | perpendicular |
+  | espacio | m. | 空间 | space |
+  | cuadrado/a | adj. | 平方的，正方形的 | square |
+  | manzana | f. | 块，街区 | block |
+  | mayoría | f. | 主要的 | majority |
+  | planta | f. | 植物，层 | plant, floor |
+  | ordenado/a | adj. | 整齐的，整洁的 | ordered, tidy |
+  | tranquilo/a | adj. | 安静的 | quiet |
+  | tráfico | m. | 交通 | traffic |
+  | ruido | m. | 噪音 | noise |
+  | recordar | v. | 记住，提醒 | remember, recall, remind |
+  | mercado | m. | 商场 | market |
+  | cementerio | m. | 墓地 | cemetery |
+  | creador | m. | 发明者，创造者 | inventor, creator |
+  | medieval | adj. | 中世纪的 | medieval |
+  | muralla | f. | 城墙 | wall |
+  | rodeado | adj. | 环绕 | surrounded |
+  | ingeniero | m. | 工程师 | engineer |
+  | urbanístico/a | adj. | 都市的 | urban |
+  | jardín | m. | 花园 | garden |
+  | interior | m. | 内部 | interior, inside |
