@@ -33,3 +33,6 @@
 
 - [B. Nivel Intermedio](intermedio)
   - [01. La familia](intermedio/01-la-familia.md)
+  - [02. Por y para](intermedio/02-por-y-para.md)
+  - [03. Acerca de España](intermedio/03-acerca-de-españa.md)
+  - [04. Los animales](intermedio/04-los-animales.md)
