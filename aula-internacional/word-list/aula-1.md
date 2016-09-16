@@ -47,7 +47,7 @@
   | televisión | f. | 电视 | television |
   | bar | m. | 吧 | bar |
   | tapa | f. | 下酒菜 | bar snack |
-  | famoso/a | adj. | 有名的 | famous |
+  | famoso | adj. | 有名的 | famous |
   | compañero | m. | 伙伴 | partner |
   | estación | f. | 车站 | station |
   | personaje | m. | 要人 | celebrity |
@@ -59,10 +59,10 @@
   | bailarina | f. | 女舞者 | dancer |
   | escritor | m. | 作者 | writer |
   | conocir | m. | 了解 | know |
-  | cubano/a | adj. | 古巴的 | Cuban |
-  | español/a | adj. | 西班牙的 | Spanish |
-  | colombiano/a | adj. | 哥伦比亚的 | Colombian |
-  | argentino/a | adj. | 阿根廷的 | argentinian |
+  | cubano | adj. | 古巴的 | Cuban |
+  | español | adj. | 西班牙的 | Spanish |
+  | colombiano | adj. | 哥伦比亚的 | Colombian |
+  | argentino | adj. | 阿根廷的 | argentinian |
   | museo | m. | 博物馆 | museum |
   | música | f. | 音乐 | music |
   | euro | m. | 欧元 | euro |
@@ -103,7 +103,7 @@
   | viñeta | f. | 漫画 | cartoon |
   | tratamiento | m. | 称呼 | treatment |
   | pichurri | interj. | 亲爱的 | darling |
-  | cotidiano/a | adj. | 日常的 | daily |
+  | cotidiano | adj. | 日常的 | daily |
   | oreja | f. | 耳朵 | ear |
   | sillita | f. | 椅子 | chair |
   | guindilla | f. | 辣椒 | pepper |
@@ -115,7 +115,7 @@
   | concordancia | f. | 一致性 | consistency |
   | gracias | interj. | 谢谢 | thank you |
   | lo siento | expr. | 对不起 | sorry |
-  | otro/a | adj. | 其他的 | other |
+  | otro | adj. | 其他的 | other |
   | escuchar | v. | 听 | listen |
   | nombre | m. | 名字 | name |
   | apellido | m. | 姓 | family name |
@@ -133,9 +133,9 @@
   | presidenta | f. | 女总统，女主席 | president |
   | secretario | m. | 秘书 | secretary |
   | italiano | m. | 意大利人 | Italian |
-  | primero/a | adj. | 第一的 | first |
-  | segundo/a | adj. | 第二的 | second |
-  | tercero/a | adj. | 第三的 | third |
+  | primero | adj. | 第一的 | first |
+  | segundo | adj. | 第二的 | second |
+  | tercero | adj. | 第三的 | third |
   | cocinero | adj. | 厨师 | cook |
   | móvil | adj. | 移动的 | mobile |
   | día | m. | 白天 | day |
@@ -161,12 +161,12 @@
   | amigo | m. | 朋友 | friend |
   | pasear | v. | 散步 | go for a walk |
   | dirección | f. | 地址 | address |
-  | latino/a | adj. | 拉丁的 | Latin |
-  | típico/a | adj. | 典型的 | typical |
+  | latino | adj. | 拉丁的 | Latin |
+  | típico | adj. | 典型的 | typical |
   | señor | m. | 先生 | Mr. |
   | señora | f. | 夫人 | Mrs. |
   | señorita | f. | 小姐 | Miss |
-  | curioso/a | adj. | 奇怪的 | curious |
+  | curioso | adj. | 奇怪的 | curious |
   | oír | v. | 听 | hear |
   | marcar | v. | 标记 | mark |
   | diálogo | m. | 对话 | dialogue |
@@ -182,7 +182,7 @@
   | colegio | m. | 学校 | school |
   | hospital | m. | 医院 | hospital |
   | estadounidense | adj. | 美国的 | American |
-  | ruso/a | adj. | 俄国的 | Russian |
+  | ruso | adj. | 俄国的 | Russian |
   | japonés/esa | adj. | 日本的 | Japanese |
   | francés/esa | adj. | 法国的 | French |
   | queso | m. | 奶酪 | cheese |
@@ -221,7 +221,7 @@
   | faltar | v. | 没有，缺少 | be missing |
   | complemento | m. | 补语 | complement |
   | ave | f. | 鸟 | bird |
-  | nocturno/a | adj. | 夜间的 | nocturnal |
+  | nocturno | adj. | 夜间的 | nocturnal |
   | artesanía | f. | 手工艺 | craftwork |
   | averiguar | v. | 查明，发现 | figure out |
   | grabación | f. | 录音 | recording |
@@ -237,8 +237,8 @@
   | gastronomía | f. | 烹饪术 | gastronomy |
   | paella | f. | 海鲜饭 | paella |
   | siesta | f. | 午睡 | siesta |
-  | destacado/a | adj. | 杰出的 | noted |
-  | anglófono/a | adj. | 讲英语的 | english-speaker |
+  | destacado | adj. | 杰出的 | noted |
+  | anglófono | adj. | 讲英语的 | english-speaker |
   | cine | m. | 电影院 | cinema |
   | cenar | v. | 晚餐 | have dinner |
   | ejercicio | v. | 锻炼，练习 | exercise |
@@ -273,7 +273,7 @@
   | política | f. | 政治 | politics |
   | gramática | f. | 语法 | grammar |
   | guitarra | f. | 吉他 | guitar |
-  | adecuado/a | adj. | 合适的 | suitable |
+  | adecuado | adj. | 合适的 | suitable |
   | ir de compras | expr. | 购物 | go shopping |
   | digital | adj. | 数码的 | digital |
   | plan | m. | 计划 | plan |
@@ -301,21 +301,21 @@
   | espectacular | adj. | 极好的 | spectacular |
   | concurso | m. | 竞争，比赛 | contest |
   | ubicación | f. | 位置，方位 | location |
-  | superlativo/a | adj. | 最高级的 | superlative |
+  | superlativo | adj. | 最高级的 | superlative |
   | panamericana | f. | 泛美公路 | Pan-American Highway |
   | atravesar | v. | 穿过 | cross |
   | autopista | f. | 高速路 | highway |
   | unir | v. | 连接，结合 | join |
   | recorrer | v. | 走完，走遍 | go over |
   | paisaje | m. | 风景 | landscape |
-  | geográfico/a | adj. | 地理上的 | geographical |
-  | climático/a | adj. | 气候上的 | climate |
+  | geográfico | adj. | 地理上的 | geographical |
+  | climático | adj. | 气候上的 | climate |
   | diversidad | f. | 多样性 | diversity |
-  | denso/a | adj. | 浓密的 | dense |
+  | denso | adj. | 浓密的 | dense |
   | selva | f. | 雨林 | rain-forest |
   | tropical | adj. | 热带的 | tropical |
-  | seco/a | adj. | 干燥的 | dry |
-  | templado/a | adj. | 温和的 | temperate |
+  | seco | adj. | 干燥的 | dry |
+  | templado | adj. | 温和的 | temperate |
   | clima | m. | 气候 | climate |
   | cobre | m. | 铜 | copper |
   | señalar | v. | 标志 | mark |
@@ -332,19 +332,19 @@
   | apartado | m. | 部分 | part |
   | cadena | m. | 连锁 | chain |
   | sortear | v. | 抽签 | raffle |
-  | fabuloso/a | adj. | 极好的 | fabulous |
+  | fabuloso | adj. | 极好的 | fabulous |
   | gasto | m. | 费用 | expense |
   | indígena | adj. | 本地的 | native |
   | habitante | m. | 居民 | resident |
   | acertar | v. | 猜中，蒙对 | guess right |
   | arena | f. | 沙 | sand |
-  | maravilloso/a | adj. | 极好的 | marvelous |
+  | maravilloso | adj. | 极好的 | marvelous |
   | tamal | m. | 玉米面团包馅卷 | tamale |
-  | húmedo/a | adj. | 潮湿的 | wet |
+  | húmedo | adj. | 潮湿的 | wet |
   | ecuador | m. | 赤道 |
   | acueducto | m. | 沟渠 | aqueduct |
-  | lindo/a | adj. | 漂亮的，好看的 | beautiful, cute |
-  | biólogo/a | m./f. | 生物学家 | biologist |
+  | lindo | adj. | 漂亮的，好看的 | beautiful, cute |
+  | biólogo | m./f. | 生物学家 | biologist |
   | petróleo | m. | 石油 | petroleum |
   | delincuencia | f. | 犯罪 | delinquency |
   | mate | m. | 巴拉圭马黛茶 | mate |
@@ -360,7 +360,7 @@
   | pista | f. | 场地，轨迹 | track |
   | cuna | f. | 摇篮 | cradle |
   | llanura | f. | 平原 | plain |
-  | escaso/a | adj. | 缺少的，不足的 | lacking |
+  | escaso | adj. | 缺少的，不足的 | lacking |
   | riqueza | f. | 财富， 财产 | wealth |
   | sede | f. | 所在地；本部 | HQ |
   | altiplano | m. | 高原 | high plateau |
@@ -379,7 +379,7 @@
   | millon | adj. | 百万 | million |
   | ahora | adv. | 现在 | now |
   | amable | adj. | 有好的 | friendly |
-  | simpático/a | adj. | 惹人喜欢的 | likeable |
+  | simpático | adj. | 惹人喜欢的 | likeable |
   | desde | adv. | 从 | from |
   | ruina | f. | 遗迹 | ruin |
   | además | adv. | 还，还有 | besides |
@@ -392,22 +392,22 @@
   | mañana | adv. | 明天 | tomorrow |
   | fin | m. | 末尾 | end |
   | playa | f. | 海滩 | beach |
-  | bonito/a | adj. | 好的，漂亮的 | nice |
+  | bonito | adj. | 好的，漂亮的 | nice |
   | equipo | m. | 队伍 | team |
   | fúlbol | m. | 足球 | football |
   | lago | m. | 湖 | lake |
   | creer | v. | 认为，相信 | think, believe |
-  | seco/a | adj. | 干燥的 | dry |
+  | seco | adj. | 干燥的 | dry |
   | montaña | f. | 山 | mountain |
   | volcán | m. | 火山 | volcano |
   | planeta | m. | 星球 | planet |
-  | activo/a | adj. | 活跃的 | active |
+  | activo | adj. | 活跃的 | active |
   | ciudad | f. | 城市 | city |
   | oficial | adj. | 官方的 | official |
   | bebida | f. | 饮料 | drinks |
-  | fantástico/a | adj. | 极好的 | fantastic |
+  | fantástico | adj. | 极好的 | fantastic |
   | ración | f. | 一部分 | portion |
-  | alto/a | adj. | 高的 | tall |
+  | alto | adj. | 高的 | tall |
   | río | m. | 河流 | river |
   | isla | f. | 岛屿 | island |
   | catarata | f. | 瀑布 | cataract， waterfall |
@@ -422,8 +422,8 @@
   | temperatura | f. | 温度 | temperature |
   | suave | adj. | 温和的 | soft |
   | invierno | m. | 冬天 | winter |
-  | extremo/a | adj. | 极端的 | extreme |
-  | caluroso/a | adj. | 热的 | hot |
+  | extremo | adj. | 极端的 | extreme |
+  | caluroso | adj. | 热的 | hot |
   | Chile | n.p. | 智利 | Chile |
   | México | n.p. | 墨西哥 | Mexico |
   | Cuba | n.p. | 古巴 | Cuba |
@@ -437,19 +437,19 @@
   | tienda | f. | 店铺 | shop |
   | ayudar | v. | 帮助 | help |
   | camiseta | f. | T恤 | T-shirt |
-  | rojo/a | adj. | 红色的 | red |
+  | rojo | adj. | 红色的 | red |
   | naranja | adj. | 橘色的 | orange |
-  | amarillo/a | adj. | 黄色 | yellow |
-  | negro/a | adj. | 黑的 | black |
-  | blanco/a | adj. | 白的 | white |
+  | amarillo | adj. | 黄色 | yellow |
+  | negro | adj. | 黑的 | black |
+  | blanco | adj. | 白的 | white |
   | verde | adj. | 绿色 | green |
   | rosa | adj. | 粉色 | pink |
   | lila | adj. | 丁香紫色 | lilac |
   | gris | adj. | 灰色 | gray |
   | marrón | adj. | 棕色 | brown |
   | beis | adj. | 米黄色 | beige |
-  | corto/a | adj. | 短的 | short |
-  | largo/a | adj. | 长的 | long |
+  | corto | adj. | 短的 | short |
+  | largo | adj. | 长的 | long |
   | talla | adj. | 大小尺寸 | size |
   | fuera | adv. | 外面，在外面 | outside |
   | manga | f. | 袖子 | sleeve |
@@ -464,7 +464,7 @@
   | postre | m. | 点心 | dessert |
   | pasaporte | m. | 护照 | passport |
   | anterior | adj. | 上面的 | previous |
-  | mediano/a | adj. | 中间的 | median |
+  | mediano | adj. | 中间的 | median |
   | jersey | m. | 毛衣 | sweater |
   | los pantalones | m. | 裤子 | pants |
   | zapato | m. | 鞋（一只） | shoe |
@@ -484,12 +484,12 @@
   | ropa | f. | 衣服 | clothes |
   | botalla | f. | 瓶 | bottle |
   | cumpleaños | m. | 生日 | birthday |
-  | precioso/a | m. | 漂亮的 | pretty |
-  | pequeño/a | m. | 小的 | small |
+  | precioso | m. | 漂亮的 | pretty |
+  | pequeño | m. | 小的 | small |
   | desear | v. | 渴望 | wish, want |
   | color | m. | 颜色 | color |
-  | caro/a | adj. | 贵的 | expensive |
-  | barato/a | adj. | 便宜的 | cheap |
+  | caro | adj. | 贵的 | expensive |
+  | barato | adj. | 便宜的 | cheap |
   | costar | v. | 花费 | cost |
   | algo | m. | 某物 | something |
   | bolígrafo | m. | 笔 | pen |
@@ -525,7 +525,7 @@
   | maleta | f. | 手提箱 | suitcase |
   | perfume | m. | 香水 | perfume |
   | usar | v. | 使用 | use |
-  | bueno/a | adj. | 好的 | good |
+  | bueno | adj. | 好的 | good |
   | prenda | f. | 服装 | garment |
   | camisa | f. | 衬衫 | shirt |
   | lino | m. | 亚麻 | flax |
@@ -545,7 +545,7 @@
   | bolso | m. | 女用手提包 | handbag |
   | bolsa | m. | 袋子 | bag |
   | prenda | f. | 服装 | garment |
-  | íntimo/a | adj. | 内部的，私人的 | intimate |
+  | íntimo | adj. | 内部的，私人的 | intimate |
   | pecho | m. | 胸 | chest |
   | calzado | m. | 鞋类 | footwear |
   | lluvia | f. | 雨 | rain |
@@ -555,20 +555,20 @@
   | superior | adj. | 上面 | upper |
   | dedo | m. | 手指，脚趾 | finger, toe |
   | tejido | m. | 织物 | fabric |
-  | grueso/a | adj. | 大的，粗重的 | heavy |
+  | grueso | adj. | 大的，粗重的 | heavy |
   | resistente | adj. | 耐用的 | resistant |
   | guante | m. | 手套 | glove |
   | blusa | f. | 女衬衣 | blouse |
   | pieza | f. | 部分 | piece |
   | aunque | conj. | 虽然，即使 | although |
-  | fino/a | adj. | 好的，细的，薄的 | fine, thin |
+  | fino | adj. | 好的，细的，薄的 | fine, thin |
   | época | f. | 时代 | epoch |
   | fibra | f. | 纤维 | fibre |
-  | sintético/a | adj. | 人造的 | synthetic |
+  | sintético | adj. | 人造的 | synthetic |
   | sin | prep. | 没有 | without |
   | botón | m. | 纽扣，按钮 | button |
   | cintura | f. | 腰 | waist |
-  | delantero/a | adj. | 前面的 | front |
+  | delantero | adj. | 前面的 | front |
   | cuello | m. | 脖子，领子 | neck, collar |
   | espalda | f. | 背 | back |
   | demás | adj. | 剩下的 | the rest |
@@ -596,7 +596,7 @@
   | interes | m. | 兴趣 | interest |
   | sobre | prep. | 在……上，关于 | above, about |
   | relación | f. | 关系 | relationship |
-  | posesivo/a | adj. | 物主的 | possessive |
+  | posesivo | adj. | 物主的 | possessive |
   | parentesco | m. | 亲属关系 | kinship |
   | quién | adv. | 谁 | who |
   | revista | f. | 杂志 | magazine |
@@ -607,7 +607,7 @@
   | hermano | m. | 兄弟 | brother |
   | hermana | f. | 姐妹 | sister |
   | título | m. | 标题 | title |
-  | favorito/a | adj. | 最喜欢的 | favorite |
+  | favorito | adj. | 最喜欢的 | favorite |
   | deporte | m. | 运动 | sport |
   | disco | m. | 专辑，唱片 | record |
   | ostra | f. | 牡蛎 | oyster |
@@ -623,7 +623,7 @@
   | fotografía | f. | 照片，摄影术 | photograph, photography |
   | japonés | m. | 日语 | Japanese |
   | portugués | m. | 葡萄牙语 | portuguese |
-  | náutico/a | adj. | 航海的，海上的 | nautical |
+  | náutico | adj. | 航海的，海上的 | nautical |
   | abrazo | m. | 拥抱 | hug |
   | desde | adv. | 来自 | from |
   | alemán | m. | 德语 | german |
@@ -631,22 +631,22 @@
   | voz | f. | 声音 | voice |
   | dejar | v. | 留下 | leave |
   | alegre | adj. | 高兴的 | happy |
-  | divertido/a | adj. | 有趣的，令人愉快的 | funny, pleasant |
+  | divertido | adj. | 有趣的，令人愉快的 | funny, pleasant |
   | inteligente | adj. | 聪明的 | intelligent |
   | un poco | expr. | 一点儿 | a little |
-  | aburrido/a | adj. | 无聊的 | boring |
-  | abierto/a | adj. | 性格外向的 | open |
-  | serio/a | adj. | 严肃的，不苟言笑的 | serious |
+  | aburrido | adj. | 无聊的 | boring |
+  | abierto | adj. | 性格外向的 | open |
+  | serio | adj. | 严肃的，不苟言笑的 | serious |
   | amigable | adj. | 友好的 | friendly |
-  | tímido/a | adj. | 害羞的 | shy |
-  | majo/a | adj. | 令人愉悦的，好看的 | nice, good-looking |
+  | tímido | adj. | 害羞的 | shy |
+  | majo | adj. | 令人愉悦的，好看的 | nice, good-looking |
   | interesante | adj. | 有趣的 | interesting |
   | desagradable | adj. | 使人不快的 | disagreeable |
   | sociable | adj. | 随和的，爱交际的 | sociable |
-  | antipático/a | adj. | 使人反感的 | unpleasant |
+  | antipático | adj. | 使人反感的 | unpleasant |
   | agradable | adj. | 令人愉快的 | pleasant |
-  | cerrado/a | adj. | 思想保守的 | closed-minded |
-  | guapo/a | adj. | 好看的 | beautiful |
+  | cerrado | adj. | 思想保守的 | closed-minded |
+  | guapo | adj. | 好看的 | beautiful |
   | sí | adv. | 是 | yes |
   | no | adv. | 否 | no |
   | tiempo | m. | 时间 | time |
@@ -662,10 +662,10 @@
   | parte | f. | 部分 | part |
   | grupo | m. | 群体 | group |
   | flamenco | m. | 弗拉门戈 | flamenco |
-  | electrónico/a | adj. | 电子的 | electronic |
+  | electrónico | adj. | 电子的 | electronic |
   | actuación | f. | 表演 | performance |
   | jazz | m. | 爵士乐 | jazz |
-  | clásico/a | adj. | 经典的 | classical |
+  | clásico | adj. | 经典的 | classical |
   | más | adv. | 更多 | more |
   | menos | adv. | 更少 | less |
   | más o menos | expr. | 或多或少，有一点 | more or less |
@@ -684,8 +684,8 @@
   | baloncesto | m. | 篮球 | basketball |
   | acción | f. | 动作 | action |
   | golf | m. | 高尔夫 | golf |
-  | feo/a | adj. | 丑的 | ugly |
-  | atractivo/a | adj. | 好看的 | attractive |
+  | feo | adj. | 丑的 | ugly |
+  | atractivo | adj. | 好看的 | attractive |
   | hombre | m. | 男人 | man |
   | mujer | f. | 女人 | woman |
   | trabajo | m. | 工作 | work |
@@ -715,17 +715,17 @@
   | niña | f. | 女孩 | girl |
   | amor | m. | 爱 | love |
   | película | f. | 电影 | film |
-  | elegido/a | adj. | 选择的 | selected |
+  | elegido | adj. | 选择的 | selected |
   | edad | f. | 年纪 | age |
   | ocupación | f. | 职业 | occupation |
-  | físico/a | adj. | 身体的 | physical |
+  | físico | adj. | 身体的 | physical |
   | cualidad | f. | 特征 | characteristic |
   | resto | m. | 其他的 | rest |
   | atentamente | adv. | 小心的 | carefully |
   | poder | v. | 可以 | can |
   | informático | m. | 信息研究员 | computer technician |
   | mes | m. | 月 | month |
-  | último/a | adj. | 最新的 | latest |
+  | último | adj. | 最新的 | latest |
   | tendencia | f. | 倾向，趋势 | tendency |
   | nacional | adj. | 国家的 | national |
   | internacional | adj. | 国际的 | international |
@@ -741,11 +741,11 @@
   | arte | m. | 艺术 | art |
   | celebrar | v. | 庆祝 | celebrate |
   | programa | m. | 节目，计划 | program |
-  | verdadero/a | adj. | 对的，真实的 | true |
+  | verdadero | adj. | 对的，真实的 | true |
   | presencia | f. | 出席 | presence |
   | formación | f. | 形成 | formation |
   | destacar | v. | 强调，突出 | stand out |
-  | mítico/a | adj. | 神话的 | mythical |
+  | mítico | adj. | 神话的 | mythical |
   | durar | v. | 持续 | last |
   | soler | v. | 通常 | be accustomed to |
   | estreno | m. | 首映 | premiere |
@@ -759,16 +759,16 @@
   | singular | adj. | 单数的 | singular |
   | plural | adj. | 复数的 | plural |
   | compañero | m. | 同伴，配偶 | mate |
-  | casado/a | adj. | 已婚的 | married |
-  | divorciado/a | adj. | 离婚的 | divorced |
+  | casado | adj. | 已婚的 | married |
+  | divorciado | adj. | 离婚的 | divorced |
   | junto | adv. | 在一起 | together |
   | texto | m. | 文章，文本 | text |
   | actual | adj. | 现在的 | current |
   | fecha | f. | 日期 | date |
   | inconformista | adj. | 我行我素的 | non-conformist |
-  | autocrítico/a | adj. | 自我批评的 | self-critical |
+  | autocrítico | adj. | 自我批评的 | self-critical |
   | exigente | adj. | 要求高的 | tough |
-  | meticuloso/a | adj. | 细致的 | meticulous |
+  | meticuloso | adj. | 细致的 | meticulous |
   | capaz | adj. | 有能力的 | capable |
   | interpretar | v. | 表演 | perform |
   | pie | m. | 脚 | foot |
@@ -791,7 +791,7 @@
   | --- | --- | --- | --- |
   | hábito | m. | 习惯 | habit |
   | frecuencia | f. | 频率 | frequency |
-  | reflexivo/a | adj. | 反身的 | reflexive |
+  | reflexivo | adj. | 反身的 | reflexive |
   | primero | adv. | 首先 | first |
   | después | adv. | 在……之后 | after |
   | hora | f. | 时间，小时 | time, hour |
@@ -812,7 +812,7 @@
   | escaparate | m. | 商店的窗户 | shop window |
   | crema | f. | 乳霜 | cream |
   | planchar | v. | 熨烫 | iron |
-  | presumido/a | adj. | 虚荣的 | boastful |
+  | presumido | adj. | 虚荣的 | boastful |
   | desastre | m. | 灾难 | disaster |
   | respuesta | f. | 回答 | response |
   | curiosidad | f. | 好奇 | curiosity |
@@ -821,7 +821,7 @@
   | corresondiente | adj. | 对应的 | corresponding |
   | completar | v. | 完成 | complete |
   | comunidad | f. | 集体 | community |
-  | estructurado/a | adj. | 有组织的 | organized |
+  | estructurado | adj. | 有组织的 | organized |
   | abeja | f. | 蜜蜂 | bee |
   | guepardo | f. | 猎豹 | cheetah |
   | tortuga | f. | 海龟 | turtle |
@@ -838,23 +838,23 @@
   | frío | m. | 冷 | cold |
   | octubre | m. | 十月 | 	October |
   | abril | m. | 四月 | April |
-  | limpio/a | adj. | 爱干净的 | neat |
-  | rápido/a | adj. | 速度快的 | rapid |
+  | limpio | adj. | 爱干净的 | neat |
+  | rápido | adj. | 速度快的 | rapid |
   | comilón | adj. | 贪吃的 | glutton |
   | fuerte | adj. | 强壮的 | strong |
-  | organizado/a | adj. | 有组织的 | organized |
+  | organizado | adj. | 有组织的 | organized |
   | dormilón | adj. | 贪睡的 | sleepyhead |
-  | medio/a | adj. | 一半的 | half |
+  | medio | adj. | 一半的 | half |
   | media | f. | 袜子 | sock |
   | orden | m. | 顺序 | order |
   | oir | v. | 听见 | hear |
   | manera | f. | 方法 | method |
   | enseñanza | f. | 教育 | education |
-  | primario/a | adj. | 首要的，主要的 | primary |
+  | primario | adj. | 首要的，主要的 | primary |
   | levantarse | v. | 起床 | get up |
   | acostarse | v. | 上床 | go to beb |
   | parecerse | v. | 像，类似 | be like |
-  | maniático/a | adj. | 强迫症的 | compulsive |
+  | maniático | adj. | 强迫症的 | compulsive |
   | lunes | m. | 星期一 | Monday |
   | martes | m. | 星期二 | Tuesday |
   | miércoles | m. | 星期三 | Wednesday |
@@ -871,13 +871,13 @@
   | punto | m. | 点 | dot, point |
   | fin de semana | expr. | 周末 | weekend |
   | tarde | adj. | 迟的 | late |
-  | eso/a | pron. | 那 | that |
+  | eso | pron. | 那 | that |
   | depender | v. | 依靠 | depend |
   | turno | m. | 次序 | turn |
   | parar | v. | 停止 | stop |
   | rato | m. | 一会 | a little while |
   | si | conj. | 如果 | if |
-  | único/a | adj. | 独特的，特别的 | unique |
+  | único | adj. | 独特的，特别的 | unique |
   | descanso | m. | 休息 | rest |
   | desayunar | v. | 吃早餐 | eat breakfast |
   | paseo | m. | 散步 | walk |
@@ -895,8 +895,8 @@
   | deber | m. | 责任，作业 | duty, homework |
   | buscar | v. | 查找 | search |
   | premio | m. | 奖励 | prize |
-  | vago/a | adj. | 模糊的 | vague |
-  | sano/a | adj. | 健康的 | healthy |
+  | vago | adj. | 模糊的 | vague |
+  | sano | adj. | 健康的 | healthy |
   | deportista | adj. | 运动的 | sporty |
   | juerguista | adj. | 爱玩的 | fun loving |
   | intelectual | adj. | 有智力的 | intellectual |
@@ -919,7 +919,7 @@
   | ventana | f. | 窗子 | window |
   | entrar | v. | 进入 | enter |
   | poner | v. | 放 | put |
-  | tanto/a | adj. | 太多的 | so much |
+  | tanto | adj. | 太多的 | so much |
   | cabeza | f. | 头脑 | head |
   | quemar | v. | 燃烧 | burn |
   | tan | adj. | 那么 | so |
@@ -950,15 +950,15 @@
   | soledad | f. | 孤独 | loneliness |
   | huir | v. | 逃走 | flee |
   | decidir | v. | 决定 | decide |
-  | maltratado/a | adj. | 虐待的 | abused |
+  | maltratado | adj. | 虐待的 | abused |
   | encontrar | v. | 发现 | find |
   | identidad | v. | 个性 | identity |
-  | progresivo/a | adj. | 进行中的 | progressive |
+  | progresivo | adj. | 进行中的 | progressive |
   | anulación | f. | 废除，取消 | annulment |
   | provincia | f. | 省 | province |
   | trasladarse | v. | 改变，移动地点 | change, move |
   | morir | v. | 死亡 | die |
-  | justo/a | adj. | 公平的，正好的 | fair, just, right |
+  | justo | adj. | 公平的，正好的 | fair, just, right |
   | gozar | v. | 享受 | enjoy |
   | independiente | adj. | 独立的 | independent |
   | banco | v. | 银行 | bank |
@@ -980,7 +980,7 @@
   | almorzar | v. | 吃午饭 | have lunch |
   | corregir | v. | 改正 | correct |
   | adolescente | adj. | 少年的 | teenage |
-  | privido/a | adj. | 私人的 | private |
+  | privido | adj. | 私人的 | private |
   | reponer | v. | 替换，恢复 | replace, recover |
   | fuerza | f. | 力气 | strength |
   | asado | m. | 烧烤 | roast |
@@ -1000,8 +1000,8 @@
   | impersonal | adj. | 非人称的 | impersonal |
   | forma | f. | 形式 | form |
   | traer | v. | 带来 | bring |
-  | gastronómico/a | adj. | 烹饪的 | gastronomic |
-  | hispano/a | adj. | 西语系的 | Hispanic |
+  | gastronómico | adj. | 烹饪的 | gastronomic |
+  | hispano | adj. | 西语系的 | Hispanic |
   | bocadillo | m. | 三明治 | sandwich |
   | carta | f. | 信，菜单 | letter, menu |
   | bocata | m. | 三明治 | sandwich |
@@ -1019,7 +1019,7 @@
   | vegetal | adj. | 植物的 | vegetal |
   | lechuga | f. | 生菜 | lettuce |
   | tomate | m. | 西红柿 | tomato |
-  | duro/a | adj. | 硬的 | hard |
+  | duro | adj. | 硬的 | hard |
   | huevo | m. | 鸡蛋 | egg |
   | cebolla | f. | 洋葱 | onion |
   | tortilla | f. | 玉米饼 | tortilla |
@@ -1028,7 +1028,7 @@
   | hamburguesa | f. | 汉堡 | hamburger |
   | lomo | m. | 背部，腰部 | back, loin |
   | caramar | m. | 鱿鱼 | caramari |
-  | mixto/a | adj. | 组合的，混合的 | mixed |
+  | mixto | adj. | 组合的，混合的 | mixed |
   | salchicha | f. | 香肠 | sausage |
   | pescado | m. | 鱼肉 | fish |
   | embutido | m. | 冷鲜肉 | cold meat |
@@ -1042,7 +1042,7 @@
   | sopa | f. | 汤 | soup |
   | ensalada | f. | 沙拉 | salad |
   | macarrón | m. | 意大利面 | macaroni |
-  | gratinado/a | adj. | 烤的 | grilled |
+  | gratinado | adj. | 烤的 | grilled |
   | pollo | m. | 小鸡，鸡肉 | chicken |
   | plancha | f. | 锅 | pan |
   | pimiento | m. | 辣椒，胡椒粉 | pepper |
@@ -1057,9 +1057,9 @@
   | fruta | f. | 水果 | fruit |
   | lenteja | f. | 扁豆 | lentil |
   | sardina | f. | 沙丁鱼 | sardine |
-  | frito/a | adj. | 油炸的 | fried |
+  | frito | adj. | 油炸的 | fried |
   | cuenta | f. | 账单 | bill |
-  | mismo/a | adj. | 一样的 | same |
+  | mismo | adj. | 一样的 | same |
   | gas | m. | 气 | gas |
   | enseguida | adv. | 马上 | right away |
   | ahora mismo | expr. | 马上 | right away |
@@ -1067,7 +1067,7 @@
   | maíz | m. | 玉米 | corn |
   | calabacín | m. | 西葫芦 | zucchini |
   | situación | f. | 情况 | situation |
-  | parecido/a | adj. | 相似的 | similar |
+  | parecido | adj. | 相似的 | similar |
   | cariño | m. | 亲爱的 | darling |
   | zumo | m. | 果汁 | juice |
   | cruasán | m. | 羊角面包 | croissant |
@@ -1077,8 +1077,8 @@
   | vinagre | m. | 醋 | vinegar |
   | sangría | f. | 桑格利亚酒 | sangria |
   | guisado | m. | 炖菜 | stew |
-  | cocido/a | adj. | 煮的 | cooked, boiled |
-  | crudo/a | adj. | 生的，未煮熟的 | raw, undercooked |
+  | cocido | adj. | 煮的 | cooked, boiled |
+  | crudo | adj. | 生的，未煮熟的 | raw, undercooked |
   | horno | m. | 烤箱 | oven |
   | romana | f. | 秤 | steelyard |
   | acompañamiento | m. | 附加物 | accompaniment |
@@ -1097,7 +1097,7 @@
   | leche | f. | 牛奶 | milk |
   | agua | f. | 水 | water |
   | caliente | adj. | 热的 | hot |
-  | frío/a | adj. | 冷的 | cold |
+  | frío | adj. | 冷的 | cold |
   | hielo | m. | 冰 | ice |
   | limón | m. | 柠檬 | lemon |
   | frijol | m. | 豆 | bean |
@@ -1111,12 +1111,12 @@
   | ejemplo | m. | 例子 | example |
   | propirtario | m. | 物主，所有人 | owner |
   | elegir | v. | 选择 | choose |
-  | casero/a | adj. | 家庭式的 | home-made |
-  | sencillo/a | adj. | 简单的 | simple |
+  | casero | adj. | 家庭式的 | home-made |
+  | sencillo | adj. | 简单的 | simple |
   | o sea | expr. | 我的意思是 | I mean |
-  | ligero/a | adj. | 快的，轻的 | light, fast |
-  | básico/a | adj. | 基础的 | basic |
-  | fijo/a | adj. | 固定的 | fixed |
+  | ligero | adj. | 快的，轻的 | light, fast |
+  | básico | adj. | 基础的 | basic |
+  | fijo | adj. | 固定的 | fixed |
   | fiambrera | f. | 便当 | lunch box |
   | microondas | m. | 微波炉 | microwave |
   | comerciante | m./f. | 商人 | businessman |
@@ -1159,19 +1159,19 @@
   | edificio | m. | 建筑 | building |
   | elegante | adj. | 高贵的 | elegant |
   | burgués | adj. | 中产的 | middle-class |
-  | lleno/a | adj. | 满的 | full |
-  | lujoso/a | adj. | 奢侈的 | luxurious |
+  | lleno | adj. | 满的 | full |
+  | lujoso | adj. | 奢侈的 | luxurious |
   | galería | f. | 画廊 | gallery |
-  | recto/a | adj. | 直的 | straight |
-  | paralelo/a | adj. | 平行的 | parallel |
+  | recto | adj. | 直的 | straight |
+  | paralelo | adj. | 平行的 | parallel |
   | perpendicular | adj. | 垂直的 | perpendicular |
   | espacio | m. | 空间 | space |
-  | cuadrado/a | adj. | 平方的，正方形的 | square |
+  | cuadrado | adj. | 平方的，正方形的 | square |
   | manzana | f. | 块，街区 | block |
   | mayoría | f. | 主要的 | majority |
   | planta | f. | 植物，层 | plant, floor |
-  | ordenado/a | adj. | 整齐的，整洁的 | ordered, tidy |
-  | tranquilo/a | adj. | 安静的 | quiet |
+  | ordenado | adj. | 整齐的，整洁的 | ordered, tidy |
+  | tranquilo | adj. | 安静的 | quiet |
   | tráfico | m. | 交通 | traffic |
   | ruido | m. | 噪音 | noise |
   | recordar | v. | 记住，提醒 | remember, recall, remind |
@@ -1182,6 +1182,62 @@
   | muralla | f. | 城墙 | wall |
   | rodeado | adj. | 环绕 | surrounded |
   | ingeniero | m. | 工程师 | engineer |
-  | urbanístico/a | adj. | 都市的 | urban |
+  | urbanístico | adj. | 都市的 | urban |
   | jardín | m. | 花园 | garden |
   | interior | m. | 内部 | interior, inside |
+  | piso | m. | 层，公寓 | floor, apartment |
+  | fresco | adj. | 清新的 | fresh |
+  | edificar | v. | 建造 | build |
+  | permitir | v. | 允许 | allow, permit |
+  | árbol | m. | 树 | tree |
+  | social | adj. | 社交的 | social |
+  | perfecto | adj. | 完美的 | perfect |
+  | límite | m. | 限制 | limit |
+  | contaminación | f. | 污染 | pollution |
+  | estrecho | adj. | 狭窄的 | narrow |
+  | lejos | adv. | 远的 | far |
+  | comunicado | adj. | 有连接的 | connected |
+  | especial | adj. | 特殊的 | special |
+  | antiguo | adj. | 古老的，古玩的 | ancient, antique |
+  | perdonar | v. | 原谅，谅解 | forgive, pardon |
+  | final | m. | 结尾，结束 | final, ending |
+  | izquierda | f. | 左边 | left |
+  | derecha | f. | 右边 | right |
+  | viejo | adj. | 老的，旧的 | old |
+  | inmortalizado | adj. | 永恒的 | immortalized |
+  | moderno | adj. | 时尚的 | modern |
+  | espíritu | m. | 精神 | spirit |
+  | bohimio | adj. | 波西米亚的 | Bohemian |
+  | contrastar | v. | 对比，对立 | contrast |
+  | pintoresco | adj. | 优美的，奇妙的 |	picturesque |
+  | pasaje | m. | 通路 | passage |
+  | reunir | v. | 聚集 | gather |
+  | distinto | adj. | 不同的 | distinct |
+  | árabe | m. | 阿拉伯 | Arabic |
+  | empinado | adj. | 陡的 | steep |
+  | hermoso | adj. | 漂亮的 | beautiful |
+  | patio | m. | 院子，天井 | patio |
+  | carnicería | f. | 肉店 | butcher's shop |
+  | pasado | m. | 过去 | past |
+  | presente | m. | 现在 | present |
+  | bosque | m. | 森林 | forest |
+  | difícil | adj. | 困难的 | difficult |
+  | residencial | adj. | 住宅的 | residential |
+  | burguesía | f. | 中产阶级 | middle-class |
+  | corazón | m. | 心脏 | heart |
+  | principal | adj. | 主要的 | main, principal |
+  | heladería | f. | 冰淇淋店 | ice-cream shop |
+  | palacete | m. | 宫殿，大厦 | mansion |
+  | historia | f. | 历史 | history |
+  | costa | f. | 海岸 | coast |
+  | dinámico | adj. | 动态的 | dynamic |
+  | comodidad | f. | 方便 | convenience |
+  | encanto | m. | 魅力，甜心 | charm, sweetheart |
+  | alquiler | m. | 租金 | rent |
+  | extranjero | m. | 外国人 | foreigner |
+  | exclusivo | adj. | 高级的 | exclusive |
+  | ancho | adj. | 宽的 | wide |
+  | enorme | adj. | 巨大的 | enormous |
+  | polideportivo | m. | 体育馆 | sports center |
+  | club | m. | 俱乐部 | club |
+  | céntrico | adj. | 中心的 | central |
