@@ -1241,3 +1241,68 @@
   | polideportivo | m. | 体育馆 | sports center |
   | club | m. | 俱乐部 | club |
   | céntrico | adj. | 中心的 | central |
+  | oferta | f. | 提供 | offer |
+  | cultural | adj. | 文化的 | cultural |
+  | jubilado | adj. | 退休的 | retired |
+  | agrupado | adj. | 成群的 | grouped |
+  | aproximadamente | adv. | 大约 | approximately |
+  | suficiente | adj. | 足够的 | sufficient |
+  | así que | expr. | 所以 | so |
+  | ambiente | m. | 氛围，环境 | atmosphere |
+  | respirar | v. | 呼吸 | breathe |
+  | dominó | m. | 骨牌 | domino |
+  | salsa | f. | 酱汁，萨尔萨舞 | sauce, salsa |
+  | burrito | m. | 墨西哥玉米饼 | burrito |
+  | quesadilla | f. | 油炸玉米粉饼 | quesadilla |
+  | enchilada | f. | 卷肉玉米饼 | enchilada |
+  | pared | f. | 墙 | wall |
+  | mural | m. | 墙壁 | mural |
+  | carnaval | m. | 嘉年华，狂欢节 | carnival |
+  | guayabera | f. | 瓜亚贝拉衫 | guayabera |
+  | fumar | v. | 抽烟 | smoke |
+  | cigarro | m. | 雪茄 | cigar |
+  | habano | adj. | 哈瓦那的 | from Havana |
+  | inconfundible | adj. | 不会弄错的 | unmistakable |
+  | acento | m. | 口音 | accent |
+  | cubierto | adj. | 覆盖的 | covered |
+
+- **Unidad 9 ¿Sabes coninar?**
+
+  | 单词 | 词性 | 释义 | 英文 |
+  | --- | --- | --- | --- |
+  | chófer | m. | 司机 | driver |
+  | guía | m. | 导游 | guide |
+  | turístico | adj. | 旅游的 | tourist |
+  | animador | m. | 艺人 | entertainer |
+  | experiencia | f. | 经验，经历 | experience |
+  | habilidad | f. | 能力 | ability |
+  | aptitud | f. | 能力 | aptitude |
+  | personalidad | f. | 人格，人品 | personality |
+  | responsable | adj. | 有责任心的 | responsible |
+  | generoso | adj. | 慷慨的 | generous |
+  | paciente | adj. | 耐心的 | patient |
+  | irresponsable | adj. | 没责任心的 | irresponsible |
+  | nervioso | adj. | 紧张的 | nervous |
+  | raro | adj. | 奇怪的 | strange |
+  | egoísta | adj. | 自私的 | selfish |
+  | impuntual | adj. | 不守时的 | unpunctual |
+  | puntual | adj. | 守时的 | punctual |
+  | impaciente | adj. | 不耐心的 | impatient |
+  | confuso | adj. | 不解的，困惑的 | confused |
+  | sorpresa | f. | 惊喜，惊讶 | surprise |
+  | saber | v. | 知道 | know |
+  | tocar | v. | 触摸，弹 | touch, play |
+  | despistado | adj. | 心不在焉的 | distracted |
+  | sonar | v. | 听起来 | sound |
+  | dúo | m. | 二人组 | duo, pair |
+  | realidad | f. | 现实 | reality |
+  | centrado | adj. | 地位合适的 | centered, balanced |
+  | ambicioso | adj. | 有野心的，有雄心的 | ambitious |
+  | sonrisa | f. | 笑容 | smile |
+  | sentido | m. | 感觉 | sense |
+  | humor | m. | 幽默 | humor |
+  | extraordinario | adj. | 卓越的 | extraordinary |
+  | esquiar | v. | 滑雪 | ski |
+  | detallista | adj. | 体贴的 | thoughtful |
+  | opinar | v. | 认为，主张 | opinion |
+  | romántico | adj. | 浪漫的 | romantic |
