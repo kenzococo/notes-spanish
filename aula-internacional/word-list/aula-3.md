@@ -12,12 +12,12 @@
   | candidato | m. | 候选人 | candidate |
   | ideal | adj. | 理想的 | ideal |
   | puesto | m. | 职位 | position |
-  | comunicativo/a | adj. | 社交的，通信的 | sociable, comunicational |
+  | comunicativo | adj. | 社交的，通信的 | sociable, comunicational |
   | relatar | v. | 讲述，联系 | relate |
   | inicio | m. | 开始 | start, beginning |
   | duración | f. | 持续时间，使用寿命 | duration, useful life |
   | principio | m. | 开始，原则 | start, principle |
-  | cierto/a | adj. | 真的，某一 | true, one |
+  | cierto | adj. | 真的，某一 | true, one |
   | propósito | m. | 目的，想法 | purpose |
   | a distancia | expr. | 从远处，（课程）函授 | from a distance, distance learning |
   | acabar | v. | 结束 | end, finish |
@@ -29,19 +29,18 @@
   | contestar | v. | 回答 | answer, reply |
   | par | m. | 一对，一些 | pair, couple |
   | ebvidia | f. | 羡慕 | envy |
-  | harto/a | adj. | 受够的，厌倦的 | fed up with, sick of |
+  | harto | adj. | 受够的，厌倦的 | fed up with, sick of |
   | vender | v. | 买 | sell |
   | montón | m. | 堆 | pile |
   | suerte | f. | 运气 | luck |
   | doctorado | m. | 博士，博士学位 | PHD, doctorate |
-  | majo/a | adj. | 漂亮的，讨人喜爱的 | nice, attractive |
+  | majo | adj. | 漂亮的，讨人喜爱的 | nice, attractive |
   | mudar | v. | 改变，调动 | change, move |
   | gana/ganas | f. | 态度，意愿 | attitude |
   | sigue en pie | expr. | 继续有效 | still stands, continues |
   | barco | m. | 船，舰 | ship, vessel, boat |
   | cuidador | m. | 护理者 | carer |
   | socorrista | m./f. | 救生员 | lifeguard |
-  |
   | matricularse | v. | 注册 | sign up |
   | religión | f. | 宗教 | religion |
   |	colaborador | m. | 合作者 | collaborator |
@@ -57,7 +56,7 @@
   | multinacional | f. | 跨国公司 | multinational |
   | director | m. | 主管，负责人 | direcor |
   | anuncio | m. | 广告 | advertisement |
-  | financiero/a | adj. | 金融的 | financial |
+  | financiero | adj. | 金融的 | financial |
   | carrera | f. | 学位 | degree |
   | máster | m. | 硕士 | master's degree |
   | empresarial | adj. | 商业的 | business |
@@ -103,6 +102,9 @@
   | perderse | v. | 损失，错过 | miss |
   | descansar | v. | 休息 | rest |
   | moderación | f. | 适度，约束 | moderacion, restraint |
+  | dedicar | v. | 奉献 | dedicate |
+  | mudarse | v. | 搬家 | move |
+  | paro | m. | 失业 | unemployment |
   |
   |
   |
@@ -110,6 +112,3 @@
   |
   |
   |
-  |
-  |
-  | 
