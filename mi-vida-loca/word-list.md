@@ -2,7 +2,7 @@
 
 - Ep 01
 
-  | 单词 | 意思 |
+  | Spanish Word | English Meaning |
   | --- | --- |
   | hola | hello |
   | gracias | thank you |
@@ -31,7 +31,7 @@
 
 - Ep 02
 
-  | 单词 | 意思 |
+  | Spanish Word | English Meaning |
   | --- | --- |
   | un agua con gas | a sparkling water |
   | un agua sin gas | a still water |
@@ -59,7 +59,7 @@
 
 - Ep 03
 
-  | 单词 | 意思 |
+  | Spanish Word | English Meaning |
   | --- | --- |
   | el metro | the metro |
   | todo recto | straight ahead |
@@ -79,6 +79,65 @@
   | el convento | the convent |
   | la iglesia | the church |
   | ¿Todo bien? | Is everything right? |
+  | enseguida | right away |
   | un kilómetro | a kilometer |
   | cero | zero |
   | un minuto | a minute |
+
+- Ep 04
+
+  | Spanish Word | English Meaning |
+  | --- | --- |
+  | ¿Qué tal? | How are you? |
+  | bien | well |
+  | yo | I |
+  | tú | you |
+  | ¿Cómo te llamas? | What is your name? |
+  | Me llamo... | My name is ... |
+  | el nombre | the first name |
+  | el apellido | the surname |
+  | inglés, inglesa | English |
+  | escocés, escocesa | Scottish |
+  | galés, galesa | Welsh |
+  | irlandés, irlandesa | Irish |
+  | español, española | Spanish |
+  | ahora | now |
+  | cerca de | near |
+  | el periodista, la periodista | the journalist |
+  | la salida | the exit |
+  | Bueno, ... | well |
+  | tomar | to have (a drink) |
+  | una copa | a drink, a wine glass |
+  | un bar | a bar |
+  | ¡Salud! | Cheers! (when toasting) |
+  | trabaja | he works, she works |
+  | para | for (a person, a purpose) |
+
+- Ep 05
+
+  | Spanish Word | English Meaning |
+  | --- | --- |
+  | Quiero... | I want |
+  | una caña | a draught beer |
+  | un vino de la casa | a house wine |
+  | una tapa | a small portion (in a bar) |
+  | una ración | a full portion (in a bar) |
+  | ¿Para beber? | To drink? |
+  | ¿Para comer? | To eat? |
+  | el servicio | the toilet, also service |
+  | un vino tinto | a red wine |
+  | un vino blanco | a white wine |
+  | un bocadillo | a sandwich |
+  | unas aceitunas | some olives |
+  | unas albóndigas | some meatballs |
+  | unos pimientos | some peppers |
+  | unos calamares | some squid |
+  | una gambas | some prawns |
+  | un pulpo | an octopus |
+  | una tortilla | a Spanish omelette |
+  | un brindis | a toast |
+  | al fondo | at the back, at the end |
+  | ¡Que aproveche! | Enjoy your meal! |
+  | la llave | the key |
+  | la agenda | the diary |
+  | en casa | at home |
